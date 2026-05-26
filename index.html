@@ -134,6 +134,15 @@
     transition: background 0.12s;
     background: transparent;
   }
+  .date-cell.placeholder {
+    cursor: default;
+    background: repeating-linear-gradient(45deg,
+      rgba(28,20,16,0.03) 0 4px,
+      transparent 4px 10px);
+    opacity: 0.5;
+  }
+  .date-cell.placeholder:hover { background: repeating-linear-gradient(45deg,
+      rgba(28,20,16,0.03) 0 4px, transparent 4px 10px); }
   .date-cell:last-child { border-right: none; }
   .date-cell:hover { background: rgba(28,20,16,0.04); }
   .date-cell.active {
@@ -281,13 +290,6 @@
     position: relative;
     overflow: hidden;
     background: linear-gradient(180deg, hsl(var(--hue, 28),35%,72%), hsl(var(--hue, 28),28%,60%));
-  }
-  .photo-block::after {
-    content: '';
-    position: absolute; inset: 0;
-    background: repeating-linear-gradient(45deg,
-      rgba(28,20,16,0.025) 0 1px,
-      transparent 1px 6px);
   }
   .photo-block .photo-caption {
     position: absolute; bottom: 12px; left: 14px;
@@ -850,10 +852,17 @@ function renderMasthead() {
 
 function renderDateStrip() {
   const dates = [...allData.dates].sort();
-  // 取最新 14 天（如果不夠 14 天就有幾天顯示幾天）
+  // 取最新 14 天（不夠 14 天就有幾天顯示幾天）
   const recent = dates.slice(-14);
+  // 不足 14 天時，左側補上空白佔位格，維持視覺節奏（today 永遠在最右）
+  const placeholderCount = Math.max(0, 14 - recent.length);
 
-  const cellsHtml = recent.map(d => {
+  let cellsHtml = '';
+  for (let i = 0; i < placeholderCount; i++) {
+    cellsHtml += `<div class="date-cell placeholder" aria-hidden="true"></div>`;
+  }
+
+  cellsHtml += recent.map(d => {
     const dt = parseDate(d);
     const wd = ['日','一','二','三','四','五','六'][dt.getDay()];
     const isWeekend = dt.getDay() === 0 || dt.getDay() === 6;
@@ -866,7 +875,7 @@ function renderDateStrip() {
     const count = sumCount(allData.data[d]?.categories || {});
     const isActive = d === currentDate;
 
-    return `<button class="date-cell ${isActive ? 'active' : ''} ${isWeekend ? 'weekend' : ''}" data-date="${d}" onclick="selectDate('${d}')">
+    return `<button class="date-cell ${isActive ? 'active' : ''} ${isWeekend ? 'weekend' : ''}" data-date="${d}">
       ${diff === 0 ? '<span class="dc-dot"></span>' : ''}
       <div class="dc-week">${weekLabel}</div>
       <div class="dc-day">${dt.getDate()}</div>
@@ -874,7 +883,12 @@ function renderDateStrip() {
     </button>`;
   }).join('');
 
-  document.getElementById('dateCells').innerHTML = cellsHtml;
+  const el = document.getElementById('dateCells');
+  el.innerHTML = cellsHtml;
+  // 用 event listener 取代 inline onclick（更穩定，避免引號 escape 問題）
+  el.querySelectorAll('.date-cell:not(.placeholder)').forEach(btn => {
+    btn.addEventListener('click', () => selectDate(btn.dataset.date));
+  });
 }
 
 function renderCatTabs() {
@@ -882,13 +896,22 @@ function renderCatTabs() {
   const cats = allData.categories_meta || {};
   const total = dayData ? sumCount(dayData.categories) : 0;
 
-  let tabs = `<button class="cat-tab ${currentCat === 'all' ? 'active' : ''}" onclick="selectCat('all')">顯示全部<sup>${total}</sup></button>`;
+  let tabs = `<button class="cat-tab ${currentCat === 'all' ? 'active' : ''}" data-cat="all">顯示全部<sup>${total}</sup></button>`;
   for (const [zh] of Object.entries(cats)) {
     const cnt = (dayData?.categories?.[zh] || []).length;
     const active = currentCat === zh;
-    tabs += `<button class="cat-tab ${active ? 'active' : ''}" onclick="selectCat('${escapeAttr(zh)}')">${escapeHtml(zh)}<sup>${cnt}</sup></button>`;
+    tabs += `<button class="cat-tab ${active ? 'active' : ''}" data-cat="${escapeAttr(zh)}">${escapeHtml(zh)}<sup>${cnt}</sup></button>`;
   }
-  document.getElementById('catTabs').innerHTML = tabs;
+  const el = document.getElementById('catTabs');
+  el.innerHTML = tabs;
+  // 用 event listener 綁定（更穩定，避免 onclick 字串引號問題）
+  el.querySelectorAll('.cat-tab').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      selectCat(btn.dataset.cat);
+    });
+  });
 }
 
 function render() {
@@ -909,29 +932,27 @@ function renderAllMode() {
     return;
   }
 
-  // 收集所有 high priority items 作為 must-read 候選
-  let highItems = [];
+  // 收集當日所有新聞，依「重要性 → 時間新」排序，挑前 4 則當必看
+  // 這樣即使 Gemini 翻譯失敗（priority 全空），仍會顯示最新 4 則做為必看
+  const allItems = [];
   for (const [zh, items] of Object.entries(dayData.categories)) {
     for (const n of (items || [])) {
-      if (getPriority(n) === 'high') highItems.push({ ...n, _cat: zh });
+      allItems.push({ ...n, _cat: zh });
     }
   }
-  // 不足 4 則時用 medium 補
-  if (highItems.length < 4) {
-    for (const [zh, items] of Object.entries(dayData.categories)) {
-      for (const n of (items || [])) {
-        if (getPriority(n) === 'medium' && !highItems.some(h => h.link === n.link)) {
-          highItems.push({ ...n, _cat: zh });
-          if (highItems.length >= 4) break;
-        }
-      }
-      if (highItems.length >= 4) break;
-    }
-  }
+  allItems.sort((a, b) => {
+    const pa = priorityScore(a);
+    const pb = priorityScore(b);
+    if (pa !== pb) return pb - pa;
+    const ta = a.time ? new Date(a.time).getTime() : 0;
+    const tb = b.time ? new Date(b.time).getTime() : 0;
+    return tb - ta;
+  });
+  const mustRead = allItems.slice(0, 4);
 
   let html = '';
-  if (highItems.length > 0) {
-    html += renderMustRead(highItems.slice(0, 4));
+  if (mustRead.length > 0) {
+    html += renderMustRead(mustRead);
   }
 
   // Category strips
@@ -941,6 +962,14 @@ function renderAllMode() {
   }
 
   document.getElementById('content').innerHTML = html;
+  // 綁定「看全部」按鈕
+  document.querySelectorAll('.view-all[data-jump-cat]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      selectCat(btn.dataset.jumpCat);
+    });
+  });
 }
 
 function renderMustRead(items) {
@@ -1007,7 +1036,7 @@ function renderCatStrip(zh, items) {
   <section class="cat-strip">
     <div class="cat-strip-head">
       <h2><span class="col-eyebrow">專欄</span> ${escapeHtml(zh)} <span class="col-count">${items.length} 則摘要</span></h2>
-      <button class="view-all" onclick="selectCat('${escapeAttr(zh)}')">看全部 →</button>
+      <button class="view-all" data-jump-cat="${escapeAttr(zh)}">看全部 →</button>
     </div>
     <div class="cat-strip-body">
       <a href="${escapeAttr(hero.link)}" target="_blank" rel="noopener" class="cat-hero">
