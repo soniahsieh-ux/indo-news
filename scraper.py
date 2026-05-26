@@ -181,6 +181,7 @@ def translate_batch(items):
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
+                max_output_tokens=32768,  # 重要！長摘要會用很多 token，預設 8192 不夠
             ),
         )
         text = (response.text or "").strip()
