@@ -74,6 +74,13 @@ CATEGORIES = {
         "query": "viral Indonesia OR \"tren TikTok\"",
         "desc": "行銷素材靈感",
     },
+    "流行娛樂": {
+        "icon": "🎬",
+        "key": "entertainment",
+        "hue": 50,
+        "query": "K-pop OR drakor OR sinetron OR konser OR \"drama Indonesia\" OR \"film bioskop\"",
+        "desc": "戲劇、音樂、明星、演唱會 → 了解玩家口味與素材靈感",
+    },
     "重大事件": {
         "icon": "⚠️",
         "key": "major",
@@ -104,11 +111,12 @@ def fetch_news(query):
     items = []
 
     for entry in feed.entries:
-        pub_time = None
-        if hasattr(entry, "published_parsed") and entry.published_parsed:
-            pub_time = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-            if pub_time < cutoff:
-                continue
+        # 必須有發布時間，否則跳過（避免老新聞被索引器重新撈出來混進來）
+        if not (hasattr(entry, "published_parsed") and entry.published_parsed):
+            continue
+        pub_time = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+        if pub_time < cutoff:
+            continue
 
         title = entry.title
         source = ""
@@ -150,7 +158,8 @@ def translate_batch(items):
         for i, it in enumerate(items)
     )
 
-    prompt = f"""你是印尼市場手遊 PM 的私人新聞助手。
+    today_label = datetime.now(TPE).strftime("%Y 年 %m 月 %d 日")
+    prompt = f"""你是印尼市場手遊 PM 的私人新聞助手。今天是 {today_label}。
 
 讀者背景：在台灣公司做印尼市場手機遊戲產品（牌類撲克/賭場機台類），關注：
 - 玩家儲值習慣與通路（GoPay/DANA/OVO/ShopeePay/Pulsa 電信儲值）
@@ -164,10 +173,12 @@ def translate_batch(items):
 1. title_zh: 翻譯成繁體中文（台灣用語）
 2. summary_zh: 重點摘要，**120-180 字（約 4-5 行）**。要涵蓋關鍵的人事時地物與數字，讓讀者不點原文也能掌握主要內容。寫成完整段落，不用條列。
 3. impact_zh: 1-2 句「對你的意義」——必須具體連結到上述背景，指出結構性訊號、策略意涵或具體行動點。**避免「這對產業有影響」這類沒資訊量的廢話**。若該則新聞對讀者業務影響很弱，impact_zh 直接填「相關性低，僅供背景參考」。
-4. priority: "high" | "medium" | "low"，依下列原則分級：
-   - "high": 對業務有結構性、直接的影響（**每天最多 3-5 則**）
+4. priority: "high" | "medium" | "low" | "skip"，依下列原則分級：
+   - **"skip"**：純粹回顧/歷史報導，主要在討論「7 天以上前發生的事」且沒有提供新數據、新分析、新政策變動。例如：今天 6 月卻在報 4 月開齋節的活動花絮、年初某次選舉的純回顧。**這類設 skip 會被自動過濾掉，讓畫面只保留近期新聞**
+   - "high": 對業務有結構性、直接的影響（每天最多 3-5 則）
    - "medium": 值得知道、有間接影響（每天約 5-10 則）
    - "low": 相關性低、僅供背景參考（其餘多數）
+   - 注意：若文章涉及過去事件，但提供「新的數據／新分析／新政策／新動向」，仍給 low/medium/high，不要 skip。例如「Q2 財報揭露 Lebaran 期間銷售年增 35%」雖然提到過去節慶但有新數據，應給 medium，不該 skip
 
 只回傳 JSON 陣列，不要任何說明文字或 markdown 圍欄：
 [{{"id": 1, "title_zh": "...", "summary_zh": "...", "impact_zh": "...", "priority": "high"}}, ...]
@@ -366,10 +377,22 @@ def main():
                         it["impact_zh"] = t.get("impact_zh", "")
                         # priority + 向下相容的 important
                         priority = t.get("priority", "low")
-                        if priority not in ("high", "medium", "low"):
+                        if priority not in ("high", "medium", "low", "skip"):
                             priority = "low"
                         it["priority"] = priority
                         it["important"] = (priority == "high")  # 向下相容
+
+            # 過濾掉 Gemini 判斷為 skip 的歷史回顧/老事件
+            skipped_count = 0
+            for cat in list(today_data["categories"].keys()):
+                before = len(today_data["categories"][cat])
+                today_data["categories"][cat] = [
+                    it for it in today_data["categories"][cat]
+                    if it.get("priority") != "skip"
+                ]
+                skipped_count += before - len(today_data["categories"][cat])
+            if skipped_count:
+                print(f"  🗑  過濾掉 {skipped_count} 則歷史回顧/老事件報導")
 
     # Step 3: 抓匯率（與前一日比較）
     print("\n💱 抓取匯率：")
