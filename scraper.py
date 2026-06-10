@@ -186,25 +186,53 @@ def translate_batch(items):
 新聞清單：
 {items_text}"""
 
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                max_output_tokens=32768,  # 重要！長摘要會用很多 token，預設 8192 不夠
-            ),
-        )
-        text = (response.text or "").strip()
-        text = re.sub(r"^```(?:json)?\s*", "", text)
-        text = re.sub(r"\s*```$", "", text)
-        translations = json.loads(text)
-        result = {t["id"]: t for t in translations}
-        print(f"  ✓ 翻譯成功 {len(result)} 則")
-        return result
-    except Exception as e:
-        print(f"  ⚠️  翻譯失敗（會顯示原文）: {e}")
-        return {}
+    # 帶重試的翻譯：主模型失敗自動切備援模型
+    # 503/UNAVAILABLE/overload 都會觸發重試，免費版常見
+    import time
+    models_to_try = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
+    max_retries = 3
+
+    for model_idx, model in enumerate(models_to_try):
+        for attempt in range(max_retries):
+            try:
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json",
+                        max_output_tokens=32768,
+                    ),
+                )
+                text = (response.text or "").strip()
+                text = re.sub(r"^```(?:json)?\s*", "", text)
+                text = re.sub(r"\s*```$", "", text)
+                translations = json.loads(text)
+                result = {t["id"]: t for t in translations}
+                tag = f"{model}" if model_idx == 0 and attempt == 0 else f"{model}, 第 {attempt + 1} 次嘗試"
+                print(f"  ✓ 翻譯成功 {len(result)} 則（{tag}）")
+                return result
+            except Exception as e:
+                err_str = str(e)
+                is_overload = (
+                    "503" in err_str
+                    or "UNAVAILABLE" in err_str
+                    or "overload" in err_str.lower()
+                    or "high demand" in err_str.lower()
+                )
+                # 還有重試額度 → 等待後重試
+                if is_overload and attempt < max_retries - 1:
+                    wait = (attempt + 1) * 8  # 8s, 16s
+                    print(f"  ⏳ {model} 暫時超載（第 {attempt + 1} 次失敗），{wait} 秒後重試...")
+                    time.sleep(wait)
+                    continue
+                # 重試用盡但還有備援模型 → 切過去
+                if is_overload and model_idx < len(models_to_try) - 1:
+                    print(f"  🔄 {model} 持續超載，切到備援模型 {models_to_try[model_idx + 1]}...")
+                    break
+                # 真的沒辦法了
+                print(f"  ⚠️  翻譯失敗（會顯示原文）: {e}")
+                return {}
+    return {}
 
 
 # ============================================================
