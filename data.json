@@ -56,7 +56,6 @@
     }
   },
   "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -69,9 +68,425 @@
     "2026-11-03",
     "2026-11-04",
     "2026-11-05",
-    "2026-11-06"
+    "2026-11-06",
+    "2026-11-07"
   ],
   "data": {
+    "2026-11-07": {
+      "generated_at": "2026-11-07T10:33:04.370827+08:00",
+      "categories": {
+        "經濟與匯率": [
+          {
+            "title": "Kuatnya Ekonomi Indonesia Triwulan III-2026 Diikuti Perbaikan Ketenagakerjaan",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGNoVERPaTVObkJ2Zy1oZVJjbzcyVDZQb3d2X3VuVGgxTGFoaDk2WWMtTU4zOTVfbUxSWmlNSjEtRXlITFZqV2dmM1NqTXppaGgxZUVZdzVYRTdFeWFTd0k5YWRPbnhCSlVIVXQtNmJsODUydXdxNkUtQnNLMVFLekpoV0JIdjlaendGVEdxbVk2MWFjZnJPTXRiWDdnaGZwX25yZFlNdE0zaThlWlQw?oc=5",
+            "source": "Kementerian Keuangan",
+            "time": "2026-11-06T12:20:00+00:00"
+          },
+          {
+            "title": "Polsek Metro Selatan Intensifkan Monitoring SPBU Rejomulyo, Pastikan Stok BBM Tersedia, Antrean Kendaraan Tertib dan Arus Lalu Lintas Tetap Lancar",
+            "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOM2RlMWJnX3ZJdGZMYUJHdUtrMk9zSllIRFUxd2RURmszNWFrU1BHMzl1U3VqZFA4Wk5pLUloeFBBWXo3T0h3VHNNR2tiQzFjQWRZQlFaSDNGQi1NWEl2bHp3TDcyZkwwVWZEbkJkWkliT2ZWVER1TDRVTnd3Z3ZoRExObmJaOUVHNE52NHRYMWtScHE0d1dXSlFha1dRRHVCS1NLbXF0cTR0TzlWZjNWQ085TVJjSlFrOE55eTVyanVxVlVzeG1NV2pnZmh1NjBsbzU5S1NZYWpNR3hCc0h0c1d1NWo2QXdYbGp6NDBCLWlSX0NKeWtlZlpIMHpvOVk2Y2FJQUhmWjBNZG9yQW1lT3pQRVVUTmo0XzV4Umx3X3NUTDVjOXBHbC1CMVJMUEk?oc=5",
+            "source": "Website Resmi Polri",
+            "time": "2026-11-07T01:05:15+00:00"
+          },
+          {
+            "title": "Tim Ekspedisi Patriot ITB Kembangkan Budidaya Rumput Laut di Darat untuk Tingkatkan Potensi Ekonomi Warga Batam",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjRBSW5QOWkxZ3FMdThNYzBScm9Pdkx5dGxvU2tpQVd5R19VUWVnTjhyVGJWQ0Izc0dnY0lVMEZBTnN0ZXJ0cVppRVVSLTNlVWFpWE81SkdtZmNWemt2VlVfaWI5eXdOeXM0ZzF4ZHZRQ2VGd1FXSkh6SUEzbWhNeUFDanA3ZHdCNGhiQXFQbGQ5RHBvUW5xbEtqUm1tOV92SUZFejE3dEVZYVF2NXFWLVFzSGxiTzJmd25HMEdvU0ZCbHRXUEZydTZtOHAya3ZXcFpXQV9TTUNPdw?oc=5",
+            "source": "Institut Teknologi Bandung",
+            "time": "2026-11-07T00:29:27+00:00"
+          },
+          {
+            "title": "Wako Agung Dongkrak Ekonomi dan Investasi Pekanbaru, CNN Indonesia Beri Penghargaan",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2tRcVdCTDc5aU9fR3RXSnN6Q0U0dGN6UFljbE84b1lwOGdZQXI4dE9qbFlMenJkbjZLd3VDcnZlRmh0TkNBS3dMeXlHZDZTYjhFR0JRcHY3N0RnVnZHYWFnRzR0S0xiQm50T1FkVlIzaER3bFNDMF84cFpQVDQtWTdZdVJYdUJEeGlnbnl0R3FwNXNSVlZ1aFlaWnVVVWZOUHV2VDRsQ2w4cGQxNHpaaE96eWx0MllxZDN3?oc=5",
+            "source": "pekanbaru.go.id",
+            "time": "2026-11-06T10:39:00+00:00"
+          },
+          {
+            "title": "Menjelang Natal dan Tahun Baru, Pemkot Cilegon Siapkan Strategi untuk Menekan Inflasi",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmlNbXQ1RE9xZmxfdzZWZncxVlpPb0pHVzREb3VRU2YxZ1Q2d2JHNU5VWGVjTGg2RFdzWlpuRm9vdGtBbElyUjlwbVNHdmRZMnNCYThEclF6T2VZUktCZ0t5UXcwSFQ0X0JLS2owbHh0UEVneG9zNndHWmVWSFVCUE00ajlScHZmMkRTUXZWUlJrUmhCdHJwWWpDMVF1T3BhbGxCODVXOWxJdFJsbHFmWS14ZnF1QVotT2FKWS1MUHNTWlBJU1R2dDhzeUx6WlFWWlRV?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T22:09:23+00:00"
+          },
+          {
+            "title": "BPS catat ekonomi Sultra tumbuh 5,79 persen di Triwulan III 2026",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3BFT2Fjdy1CNm9tVDdnTzlsOFMwblF1TUdzeGR1MVpTVndzRG9aM0VUbWNyNjIzcndoTy1qWG51aHQyQVlVcG1ZbVg1dE51c3ViWWc1LUIwTkFCMjQ2a2hHZEtNbHY5TkxXcHN5Wm1hZFREajRyN0UydVdPQ2lJRVhVbHFrRURabGJDcjhwdE1seTJoQjNRcERHLU9FaFB6OE9kVWR0dUhyUjQ?oc=5",
+            "source": "ANTARA News Sultra",
+            "time": "2026-11-06T22:46:29+00:00"
+          },
+          {
+            "title": "Festival Salawaku Meriahkan Peluncuran HAJAT ke-776, Angkat Potensi Budaya dan Ekonomi Kreatif",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTF5d2lDcmJBR3lWcmdqcXlyUmtoUXUtWFRSMWZlMDd6NVlHY1gzeEVZZVJPLVdFY0E5dDUxUi1uUFZ0VXV0dmw1ODRMeFFfUWRSb3d6N09YOFpkR3JxSGZQaU9RMGtVRkx6N2JGSGMxamJPMnptY3ctQVU0eVVuNjFmTWQ2Mm1uOUg0NTYtNlpXSzdBWDlXNm8yMFRCU1V4ZU5WOWdsYWVIUVJSczYxUENJc05tR3ctOWpLT3B0TjQzMnJp?oc=5",
+            "source": "Pemerintah Kota Ternate",
+            "time": "2026-11-06T14:13:40+00:00"
+          },
+          {
+            "title": "Pemprov Kalteng Ajak Generasi Muda Perkuat Produk Lokal, Satu Klik Jadi Penggerak Kemandirian Ekonomi Bangsa",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYkx6cjJuNnAwTGlaZVpLRGRneDBDcTZKODhqZ0JxREVuS1VqTzBtV1U0by1ONnNYUGNvSXpObnVlUFBQLWhSckp1VG5JdFpreTR3SGlJcm1xVHRlaXkwUVNsQUNISU05TlVCT2RXMTc5cHo5SlJHLWM4VzB6RHhadmZlR1JDcXl1cUlSZVBkejR3U09yWUtVdjc5eld2ZTBKd1RtMDQyWjZUdGJBUE1uR2Q1VHBmMXFIOXhuU3A3RHFQTG5TbTJ0Z2JJRmNVZGFJc2hqdUp0SHlFaE9xZm5jLVlDY0lZdw?oc=5",
+            "source": "mmckalteng",
+            "time": "2026-11-06T13:21:00+00:00"
+          }
+        ],
+        "宗教與節慶": [
+          {
+            "title": "Idul Fitri 1447 H : Robinsar Ajak Masyarakat Perkuat Nilai Kemenangan Spiritual",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGVmN0FjTUxUOEp3Y2dIT000REZKdHU0M2hUcG5WdzcwSGxWSHVmNG5TMmJONGd4YTFaX1ppU25PTjIyejNVd2IxRGZZX1JHUGcyMnRnRlBvc05QTjZYRjZEM1pYU1k0OUhrSmVTRy1mbEVPNXV6UHF2NUNBT0ZTTzB0VUNqbTE5NFowODZkNUY3UHdqUjQxbnU1QVBBYnA1MDBBZm5nNTM1bDJfemFzWUN1QUQ3c2IxMmJrNmJkSnNEUzh4dklzOWxPOA?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T23:44:56+00:00"
+          },
+          {
+            "title": "Libur Lebaran 2027 Sesuai SKB 3 Menteri, Berpotensi 10 Hari",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVd4Q2RoWldQcFhGbm9CZUJzQXlqMmY4dEJteW56TzNsUzUzYkxvclJDWW5ybzZDT0lrVVhtLVkxQ0xabWJCLTg0SV9fNldYdHdQOHR4TldIOERwMmxmSFNVbHNZdFVfOEJXZHRDUzdFdl9LMEFDYTFqVHJoeUhDTjNpS182TXgydldzWlJ4SXpTR3VqNGdUM3NPeDBJeVFDbEVsa0NwejRfdw?oc=5",
+            "source": "Kompas.com",
+            "time": "2026-11-07T01:19:00+00:00"
+          },
+          {
+            "title": "Kalender Lebaran 2027 Membuka Peluang Libur 10 Hari",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QclFhNW5tcG1iR3JfZlhfN045VDNyTVpPd3Z0MjJXNHZHMHBBc0l6NS1nd042SW9jaWJyYjc2MTJfYmdnbV9yWkRXV2p0WHVnVFltMUY2VFN0Q0xQRUhSajNtTTY?oc=5",
+            "source": "bsinews.id",
+            "time": "2026-11-07T01:23:25+00:00"
+          },
+          {
+            "title": "Daftar Hari yang Dilarang untuk Mengganti Puasa Ramadan",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRpWEJ4YUg0RzFqNzZGZGVXWGROMWtWNXJkRjVMVURYYVRxWXhtOUxQa1N5My1OQV9TaTAya2dhT0NIZ0VBeXozY3JzNWVvMVBVTjdKRnRuU3MzQlg0YnhVM0swYkFNZHJUZFRDdDNiSmlzQTZwVXBRRy0zd3VZaXpMX0Z1c1B3Y0VXT0U0SXhSa1ZReHhvMTVFTTk?oc=5",
+            "source": "jurnas.com",
+            "time": "2026-11-07T00:00:00+00:00"
+          },
+          {
+            "title": "Hari Pahlawan 10 November 2026 Jatuh Hari Apa, Apakah Libur Nasional? Ini Ketentuannya",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlNWaDFzQzJmdGdtQzdIOVFqdlJXUUhFanBzUzV2MmtnVDhQX2FIZ2NhcGo3S1gycXFOT3NIX2JRRUxybVg5LWVLSTZpM1owMzRpN2lZQ3dBdW5LOG81YTRxdHVKbS02X2l0Ui1rcVRnajc3eDR1WUl6TGEzVmhkS1AtcW94al84Z3AySW0wTkVneEdVY1U1cG1ubTE5NktiNkxNbDJHcDZ4UGxUTmc?oc=5",
+            "source": "AFU.id",
+            "time": "2026-11-06T15:00:00+00:00"
+          },
+          {
+            "title": "Underpass Bitung siap difungsikan jelang mudik Idul Fitri 2027",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJ5blFUcDFieXB6elM1Yng4U0tTenZfb0owYnRnU1ltdnFXbm5LV2E3TWlwX0ZCenJWM21Cb0JsTW5qUFFQa0R5QlBxQ09KMVRxMzYwYVdkdmZGTmtkSExHejlnT0VuQmtnQlY5Z2o3QWtzRWFYUDYzS0diXzhKeGZlX19FdDhLa3lKcFF2dFZJdjB6OVVNQS1IS0Z1X0RhT3hJaWNhUQ?oc=5",
+            "source": "ANTARA News",
+            "time": "2026-11-06T09:27:05+00:00"
+          },
+          {
+            "title": "Jadwal Libur Lebaran 2027 dan Cuti Bersama Resmi SKB 3 Menteri",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG5jMHpJTU9hVUF5SS1KWFJUZllkY25majBxV3hNekFGZXhFYXBKa1NmSFFuQlNnQjltckhEOHBSQ29ZNXNucmVTWXdlOGpXc0Q4YXkxdlE3cjZKYlNyd29IUGRFNjNQd2QtWFZBc1BMX21qSUt4UWNhNmpFV3FtVUhpamNvSXREVHg4ZS00eFd3c3dwQ29QSkNheXEzZF9ScERyZUJYc0plWmdP0gGyAUFVX3lxTE9POEg1Mk12UTlVbzhIZ1RmNkZjVURoakRFNmhic0pvRTl6cmhuQWw5RjQ2S1NMSGZDbDdEazZubjdjNHhUd3lhNlhUb1REdnFQRDNKVXM4QU02WVM4SkFMTng1Y0kxYkY1X042em9ybHVYbUpieXUwQmFYMElzTjNGSGNSNkN4RDl0bUZwOGhhb1hsWUROaGRjWTF2ckltSTNKNkpETGxjRWdRS0Q0ZEpjcFE?oc=5",
+            "source": "detikcom",
+            "time": "2026-11-06T02:30:18+00:00"
+          },
+          {
+            "title": "November 2026 Punya Lima Hari Senin, Tak Ada Libur Nasional",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjUxOTV5aWRGQUJ2OW9lMnU2bEJYMlRlM21WcDdyeVNSOXVlSzI2aU9ZSlk3bWlxWExWeno3NDg5NDljME1fU1B1TUVUOGhnTHFickF5TmU1d2xDYm01Z2xqeXNqcUZrNkhDZ3BBYmN0TmlKb2FHb0F2NU1UbDJnRXFTTUNPTG1nR2VNeHZZSlFhR3FlSUtsVDA1RzJGcG9La0NTbV9aS3k?oc=5",
+            "source": "RRI.co.id",
+            "time": "2026-11-06T08:04:00+00:00"
+          }
+        ],
+        "法規政策": [
+          {
+            "title": "Kemenag Segera Terbitkan Pedoman Penanganan Judi Online, Perkuat Disiplin ASN",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3hJSzhOS2ZaUHl3X0ZXU1ZnN01vN3RDVE5OVm5UZ0FXazBNZ2FZOUFjWWhrNUREY2Z3dU5MbEpvY2w2ZENzNUxhdUtzaHg1ZGhyVlVMSXM5Y3lTVmRmZjZpRkZLSEpJNTIzck1NVVJGZGdaODFtdFlOVHlSajE3MUNPam1hZml4VUROaTI5NDJTMFlpVDNqcFZMZjIya3lNbXBPS3Z4OWUxcXlxNjZNU3RDVQ?oc=5",
+            "source": "Kementerian Agama",
+            "time": "2026-11-06T08:30:00+00:00"
+          },
+          {
+            "title": "Perkuat Pilar Ekonomi Kampar, Bupati Ahmad Yuzar Sambut Nakhoda Baru OJK Provinsi Riau.",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTm0wRGp3TFoyTzFFOGxtbUFSSWlyZkZ4ZWVfdDRPZTJPWHNlWndiZnpmX1ZqR0dyZnF3M2NleUtJTWFiNGZaVmVIQm9WRlU2ZzhYWlJQYVVGRklsZXBWYUZJNEJwZ0loZi1wd3YzQ3hHckJqRTFGSUtnZXFsZzRFMUdSb2p6dHh6OW5oT2diNHFlamdSUEk3TFdJWmlKMlIweDhwODVKUnVLTDRoVkcwOEVEZ0gwQVppWUlIdXVfMEJ1MWE5QVVOeDhKYVhINU9fNHMxZjFDN04?oc=5",
+            "source": "Website Media Center Kabupaten Kampar",
+            "time": "2026-11-06T12:34:08+00:00"
+          },
+          {
+            "title": "Pemkot Cilegon dan OJK Banten Perkuat Sinergi Percepatan Akses Keuangan Daerah",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUdfaFJaRk5KQ003OTFpZENZQk00b1hrY0JNU3RlVkJNTXF6ZWg4TFdkM2F1Vl9zQWV3b29iRFp2Ql9GZC1uMlZ0cWxHSEd3UFNjakJZR3ltN2xSbmdPUDk3bzdzbGdiS0lnN3ViT0N5SGx2eG5ldmhSSEdJSjRVLXlMOExhZ3BMeU10eVdCR1ZRal8zZ3BiUnV5QlBuZlo2MXlMQkdKZFl5X2lkdHV5Q0FQUElGU0ZKQnhnamVWamgwRlRhQlpiNHlB?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T22:09:45+00:00"
+          },
+          {
+            "title": "Wabup Bagus Santoso Hadiri Pengukuhan Kepala OJK Riau, Pemkab Bengkalis Dorong Penguatan Akses Keuangan Masyarakat",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaUcwdE5obmMtdWwzVWtkUTJ3MHVaS24wNnZsZm9iVGg0cE9FSUxoSzRxMkdjQlZRWXhOOEFaVEY3VHhuLTFhVHlNdEo1S2F3czhxWFNLU1dVaWNwZ0xoYWxQaDBFdWE5VVFaMW1ZSGlOS05BdE8yLWVNR05QMHJ6cnFTQm1DSjdYemQ5MXMzUTlSUjNWSVh6M3dfRmRFUUJmVGtOcHBNZ0xrREFCUk5QNDE2MGl6RjRzcnNTZW9KekpRSkxhWkE2cFRveWpJRkxZOUhNOXI3UUdDQ2VSY0NSWnFHY2tGc19kbTFaeVhfUXFvbVFqanFpTm1BeVRxQVVEa3N1UUd3TFY?oc=5",
+            "source": "Diskominfotik Kabupaten Bengkalis",
+            "time": "2026-11-06T07:30:00+00:00"
+          },
+          {
+            "title": "OJK dan Bank Sulselbar gandeng ulama sosialisasi keuangan syariah",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDZhSjNhbllOUXR4c0RVYll4TENseXg4MUQwempwZDRYRjByZHllVVR3SjY1RmVSNVdVM250dDl5VkFhM3ptcnN1NTdoNFloZ3JUYi1DYTBNeGdNWjNGSXRhREswcE92Y2R6UFdGdDBTTWNZMGlwSDV4Y29sMGNtVDFja2g3aGxveTltdlZRbWdweFhCVnVwdENFMnBNZEU3TFp1Y3NzbC15SXBWTnVWZg?oc=5",
+            "source": "ANTARA News Makassar",
+            "time": "2026-11-07T02:18:34+00:00"
+          },
+          {
+            "title": "Kominfo Sleman Perkuat KIM Kapanewon, Bekali Warga Keterampilan Jurnalistik dan Konten Digital",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYnA4czI3RXNVT0NEX2VxZV9WSGkzVVR4alZDTXVsOGVXU2ExdmtqRFlTcEViMURKbGtUQkwxcldCOVBmdkd6M19YbTc3cmw5dlczeFBDandPQ2NVYmhYYmp2X1RUUEx6T3dvVG5YSXYyZXhQcVZpdFlOTUJGbjNPZ1BhVGdxYWlJLTlnS3dCVzJsaEVPa1ZYS0JFWG1JQzdnZWE0U1RKZEh0WnlRcG9yRVhTeHl5bEIwcWY1cEVTeW9jU0FUSGd6MzB5X0FLdGdLQ0FhY2lzUm8?oc=5",
+            "source": "Media Center Sembada",
+            "time": "2026-11-06T06:26:39+00:00"
+          },
+          {
+            "title": "OJK Buka-bukaan soal Aksi Haji Isam Gadaikan Saham ke Bank Mandiri",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNk5MNlljOTJReWJ1bDZGSGxtVHVXZ1Jhb3huOThpeFMwSXdlak84U1JiMy12QVhUdnBPTEFEX3k5anJCMVVSLV9SSkJzbTBaazk4WG1oMmk4QjI0YWc0QmdodEJMbFdMaHMtWTdzNjJtU1F1X3VUTW9vQXpIUmNISHFBS3FKSFlGQUI3NGZwYVRhOHhIekpuX1Z3Z3dZYzBHLTBlZWlpM1BmLVloZktYMnREcXRFb1RV?oc=5",
+            "source": "Kompas.com",
+            "time": "2026-11-07T01:14:00+00:00"
+          },
+          {
+            "title": "OJK Tebar Insentif Investasi Hijau",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WQXhPbXJxUmlZZ2dyRmtWa1BrTHBNaDdmYktRLV93ekgtd2tPY3hLWjV4MW9YVTNjTklWX3NEa1E3b3p2MTBmU1lhYkJEQ3lPc0NrbFctYmlRZ3Rab2lZYUQ3RjVMLTloWjF4WlRDTTZIajN4aUNR?oc=5",
+            "source": "KONTAN",
+            "time": "2026-11-06T22:00:02+00:00"
+          }
+        ],
+        "行動支付": [
+          {
+            "title": "Wakaf Uang Digital: Siapa Bertanggung Jawab Ketika Dana Wakaf Bermasalah?",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWg2U1p1alJYcjBhRXFkUWlBeTZIWHlnRS1YX2ZhYy1PZVMwYU9EdV9yN2dEMkxjN3pLT0xNWmtBV0NVWTZZMWQtQXN3Sm5lUmN4ZXVEbDJ1Nk1VUDl1R1I1c3RtTzg4cXRWTVIzNmJwYXJzcnU5MWRSV19NMFlOMDczbnJ1R010b2l3ZkxXUzlRZno4TENqWlVhaExKOXhYbnJuaGktNHl6eTIwTkMxeDhTZWRMdi16Nk9qaXZzc20xRGww?oc=5",
+            "source": "Hukumonline",
+            "time": "2026-11-06T19:26:43+00:00"
+          },
+          {
+            "title": "Kesra Cilegon Dorong Pengajuan Dana Hibah 2027 Lewat Aplikasi Digital",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUJqdzZfeTZVa1lzZDF5ei1xYURlb29kVElILTdOWWx3dmVqZU43TWJiM2xFYXRTR1pKT25OVHV0TVhRYWdEcW1DVGZRWUQxN01ScnB6VXhxWEZsQjhYcEtEZG1XZlZXSHdMVjFHdVhDZXZrU2xVQnM3WlJ6cGhPUGd2WVNQcFRvVl9NMTQzV280Rkx4SWVhbzNSVnk4SzVMUURYQ3RWV0c3NW5KeUQzc1BFLXlsNGNuTW5wSHlR?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-07T00:07:41+00:00"
+          },
+          {
+            "title": "Polsek Lahewa Hadiri dan Amankan Penyaluran BLT Dana Desa Bulan Oktober-November 2026 di Desa Tefao",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXl6ZEZBRWxyaThjXzhkTllyRzZDdWFUelVDTVNrZ3ZlSlhzbFE0NEtiSHotZm45VkxWSWcyd1BZZEVIMnBNNEloV1RMWUh0X2FsZDdmc01aRzkxQmZyNG1qdDJ1c0cxQXh0b2hDZWJwZ0V0V0pzd29QeDg1ZTFnWlRYUHhGTi1VSVJFT29rcUx4LWpiWkhqNkxjZmlUOVFSc1RBUEU0eXY4ZkNXbHpwbXBzTERXNzFJS2c4akNEanFDVnUxQ0hCaU1zR0JqdWw2UG1zNVhn?oc=5",
+            "source": "Website Resmi Polri",
+            "time": "2026-11-06T21:00:44+00:00"
+          },
+          {
+            "title": "Revitalisasi Pasar di Sleman Terkendala Anggaran, Dana Pemeliharaan Rp1,8 Miliar",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVg0V2NJNU02dERFVmpJeVp5dmVBT2gwVWVJeFVQMEJHVHhoYXZsdVpCandiQzFidHVBX2pMdEJEWDhrQ0hkemN2VFZvMXFzUHNEaEFIQ3VGRmF5aHZUYVp1VkFseldIbGdRY0l1TE40WkJtUmJiVFc2WTYzSUw1OEl4cHJRTVc2MVZKVVYtbXJIRGhIeU9IaTNfNzM5QXI0dnVvczl5Y3BmVEFu?oc=5",
+            "source": "BPK RI Perwakilan Provinsi Daerah Istimewa Yogyakarta",
+            "time": "2026-11-06T11:16:36+00:00"
+          },
+          {
+            "title": "Daftar Promo Menarik di Aplikasi ShopeePay saat 11.11, Ada KFC Rp 11 Ribu! - kumparan.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTNldDZ3VnpEUmlFWTFqakJfY25uR204SjBuRFQ5cU5kQjdfbWdHY1B4MWZtdGlvWHVabVcxYmxScEFSQUJyWXVMdW1USWNrYkRwX1kxWHE1Ym9VYWc3RHRGSkJGakI0WUNYcERCYUhDU0RDYlJ1RUFxTVRzcTlHSTVBZ2ZNemZLWlRWUTFkMkk2UDFWeGJzMnJBb1VkMktFcXd6UG1zWVEtSzVhc3M0dGpCYWpzOGZibXpLUNIBxAFBVV95cUxOd2s5STRyU2plQm9iSmtsVGZNWUFrZGVXNUwwbDBFaTVWUGt5aW9BUVVtWkpPSTlWbmtsbXlkdUZQdkhRNTBWaVYwTFdjS1VzR0FzNlZGckxnU0tuNzgtUEVFUU1XUXFLY0o4VXpjdVMxR19VY0s2aTNKYzg3QjZtWC1udlJLamtDRGxxRVBOWVIwUjJLbE1mTWhEMExRUWRTUmM0YTFCdE56cjFzUkxvWlhZUFByY1kwZlhNZk1kam0yVXV5?oc=5",
+            "source": "kumparan",
+            "time": "2026-11-07T01:00:00+00:00"
+          },
+          {
+            "title": "PKBM Budi Utama Surabaya Buktikan Pendidikan Gratis Bisa Berjalan Tanpa Bergantung pada Dana BOP",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNjROV2htSU5JcUFLa1lHSDl5M0dmbjhNNWl6MUtBVXJPR09wYUtMYzY5d0UwUFhHT1FIV2tOaGZodFh3UkJlOXNfQjBQSXp0dzNrWG1ZeEtKcTdYR3h2cEV1Z0hKd0p3djJLUm1BY29WZWJZblFZdFhmWk1UZXFKQkRWaVZCT0RlNVBtVUlQdW5IRFJnNlFzcEFXM1NHQldmYXNRME91V1lzN2RjWlFLUzRUTkhCcVozR3FSMzRGSkxaWi11ZmlvVHlGRzZvWVpiY3RCUHpIWnBYdmNq?oc=5",
+            "source": "InfoPublik",
+            "time": "2026-11-07T02:22:00+00:00"
+          },
+          {
+            "title": "Dana asing kembali masuk saham RI, IHSG kembali di atas 5.000",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3pXVXVCcW9WZ0ZOcFdaeFB2U19FNmJYUmFnQnZHN09uTWh6VExINDU4WWs1Y25VU2dHbnFBYW80WGViWmVuendjZ2VHSXZxRGxCbDN4UmV6N1JqV3pVcW1BclBrNUlJV3ZLLVkyOVE2dzhqcUJET000RlhETHFoY0Z1UVZRQVBRaFlmR3d1cTFPbmNiYUtCd2s2REhUMmxpVk5pRGc5SQ?oc=5",
+            "source": "IDNFinancials",
+            "time": "2026-11-06T12:20:00+00:00"
+          },
+          {
+            "title": "Dana BTT Garut tersisa Rp3,5 miliar untuk hadapi bencana",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUV4WjR6UXVQTDZUYVFZQkpmQmQ0NmZmSkY1eHVubDhUdXVYNTltTlpjZFYxMkN1WXBxbE9KX0ZSNWt5a2p2WHBZZ0Fvd1V3NGp6RTQwaEZGR2Nwc21nNFAtOVRtVEYxZnF1NWZ4OFU4N05NbHhIWTR5ZDF4dkFZUlRya0kwdDhNa0dzVnZvNVhWRk1ZVWtCSkZOSHlnUHM4VjhBbkg0SdIBrAFBVV95cUxQVmY2N3E2LW1icVdseThjb1dvMzhMRFY4MkQyRjdjX0hSUVBaWThZWjZiWTFTOXZGU1FXLXkxaFN4TkRpS2V2NWdZQ1k0WXY0Mmk4N1BzQkcyZ0FIam1QSk84V0JKdU5HMDh3WTh6UE9aNWQtYTg1NTgwb2xCQTVTZlJob2FLdjg4UFNrNE1hYXhLbWhCQWpRUEhsNnY0YWxMUTJMWXJkNWRYWGRY?oc=5",
+            "source": "ANTARA News Megapolitan",
+            "time": "2026-11-07T00:57:20+00:00"
+          }
+        ],
+        "電信網路": [
+          {
+            "title": "Telkomsel dorong technopreneur lokal kembangkan solusi digital berdampak yang berbasis AI",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXdNWnFOaDl4eUV3ZUhkSmphUlRidG9fd2hIMDRrNWVMUkduUkxLNV83SDg0VjNhMF9tdnRsZ2tEcVpCNDhQM0RuYk9nZlZVTVB6N0Q1SThISmRfNVdxSVlnMlFtZ2dFbGxfbk5KZFBSWGNLZ1V4RE1jdjJZOEp0VWNKVmJyZGloVmdRdjUxbUd6dHM5X0NlTVlDeFBsNnFoVHdTOUd5VS1LSHpGNFFBMFRUelZwX0pQWFFkZUh6blYwVTJlMFJHbEpLMNIB0AFBVV95cUxQQWhiODhXc1RnNV9rb28xbkZzTU81SU5SRV8wWFNnbmdVcjl1eHJlVUJBU0RnUlEyUHZEbnZDNEdXaVFqNk5EWkxNdDIyajlOQS1aMFNVOFBJYTFZcm5fTVVuR2xHWkJ4dWJtdWpkVGNlajBnS2pMLWJTQ0NhTmlhdVJJcy1zcWVmUWYyR1IwZGhVd1NGLXZQLW12c2JGbEJ2bU5iLTdzUV9IZ0dJSEk1MTIzWFZVbzBvZFFqa1RNWm5XZHgtMWZYaHhkMWZYTldH?oc=5",
+            "source": "ANTARA News Bali",
+            "time": "2026-11-06T14:11:28+00:00"
+          },
+          {
+            "title": "Berkat Transformasi Digital dan Inovasi AI, Telkomsel Raih Penghargaan",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVVZNaV9mYm16NG5hZmFPbE5ibVozOXlOMHZuU0dLWDZCeXJ0SmdPMnRqTExOWDR3eExrdVUwYVcyeXExZ2gtR1ZNaWVfb3JMNHB5SWlCQ2JZaXlERGkxQ2VCMk9uWURoVlVKZDRELVBTajlTbGUyNkFReU1NaTQwbHRKR0VqUGhKQ2g4ZXQzRmdYODlkZm9vS0dvX3JaQ3BPWlZnQ2RKRDNGUGVJRjRoZzRYMlo5STdJa0gyUUNPUWNvTHZkU0cyODFLYm4wekNn?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-11-06T13:53:16+00:00"
+          },
+          {
+            "title": "Indosat Hadirkan Jaringan 5G di Manado, Perkuat Konektivitas Digital Masyarakat",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHRnUi12SkZvVWwzcHgxWGZMR1I5eHoyV0RoQXY2bnJsaWtzUk13NHF5ZW5CdGg0VTR2aG91YmxldU52V2ZVVlJCVVgxS2tCNFNUb2M2YUF2eVgyTEgtLVNxcmNyRDJCVFZ2X2JId1BmRjF3UENRSk9ldWxlNkhCa3hMOEVxUldUMWFpWHEzU2NTY0NWVjFlWnZUaTd4bEU5YXpVam1HVEJlVWdiR0pISEZ1TUo?oc=5",
+            "source": "sindomanado",
+            "time": "2026-11-06T14:19:00+00:00"
+          },
+          {
+            "title": "Rayakan Anniversary, Indosat Hadirkan Pop-Up Van Experience di Manado",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTZ6aGpzUFdnVm41dE9LOWxVelE3b181UGhTUWFsNi1NMnNhaWlGcHA1bkJJYkVHQ3VuWVlHalpEckE5TUMwZXFHVnhfWUcxYnVfTEdwWDRsQ09ZcjQwMHdtRUZ5TVZfeEJuLWVkY1lkcTdTY2lUcmJUcE4wQ0J1bnJBOXpCTDYwRTVkazA4NmZPeVlyNzBNU3ozV2NZVE1BQ3lHYWJnMA?oc=5",
+            "source": "SULUT NEWS TV",
+            "time": "2026-11-06T12:59:46+00:00"
+          },
+          {
+            "title": "Telkomsel Bersih-bersih Pelanggan IndiHome, Pendapatan Turun 3,4% Jadi Rp19,09 Triliun",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzFuZHlkeGVoWTdzcWJrUndPWUh6TVhQWHJjM0loaGhURWJFVkFEelNXS2QxWDFmQmhUNmx1RktEcnVWSW5fczlKRHNORl9JSkx0OVdWYmRFcG9yeC00alhSYkc1NHMzTUE3Zkh5cEdLUkJUOW5mY2ZwQTZYOWgzYnJ1MzJwb2l5U2VkZVNPaHY1MW1LQV9STi12RUNmTWg4MDM4SWZzYV9mbEk2VnlqLWxKV0JQWW5QaDgyetIBwgFBVV95cUxORFhBYTJVUDg0Njh5QUlLS2p2bGtkTmstQ0F4RnBveEVJMHBiMWdQX0RFeEJpVlEycWowUGZfMzBLd2l5bkVNb18yc3BmT3l2TVVqSjZja1BHN1J1eTc5UG9nVEJaNUpSM3lpMVRSSVU1WnZTNVFZWnNPdW5mQTVaNVhBQXRTc0JvR3dpUE1lckI4ZXBNODBad0xDdzBLRzhNSGxoRWRESjhJVWFnY2pSMEhLQVZ6Ymh6ME1RMktsWEZVdw?oc=5",
+            "source": "Warta Ekonomi",
+            "time": "2026-11-06T12:40:00+00:00"
+          },
+          {
+            "title": "Indosat 5G Dukung Kreativitas, Usaha Lokal, dan Pariwisata Digital di Manado",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklDZGFTRTYtRGtkX2Z1eXNCQ3lRcWxVNmlQNElyUVplT3ZBTTUtUVVLbVUtU1RCSldVMnAxNW9tUkVBY05OcXU3WjdPZVlvM2FCSm5tdDkwU19IdE5ZVHhpdGJGNlpXNHB1dklHZ21BWWFKN2ktN3IyQU02dW5nM2hWdlk5R1R0bHU5b1hXd0hmdkhHLWFwSzMtWnNMN2lwdVNKNFFVcTVIZGc?oc=5",
+            "source": "Barometer.co.id",
+            "time": "2026-11-06T08:54:28+00:00"
+          },
+          {
+            "title": "Lindungi Pelanggan dari Spam, Telkomsel Luncurkan Fitur SISCAMLING",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQW5wQVE3WFRnalYtaXRReFpvaXBTTzMyNGczNW9aMEhVX0dHNWRQU0xmSlpOQjlYUWZHUGxuaFdOeVJnWkRIZzZzQ0lyMUFDb0ttVFRnNmoxRWhoZzBMTTFnaTRjdE9DdHhuaFhKRUJWRnc3RG5Ua0ROYWg3eVR3WUljMkN2T1o3cnlxX0JKNTZ4R25Bc010Uy05QW02THJtbUg2NjJsdDU?oc=5",
+            "source": "RRI.co.id",
+            "time": "2026-11-06T14:39:00+00:00"
+          },
+          {
+            "title": "Telkomsel Uji Coba ‘Enterprise Corner’ di GraPARI Wisma Alia Jakarta, Permudah Akses Layanan bagi Pelanggan Korporat.",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUWtUT2ZsdFB4T1ZkU3ZzUTVlbnRJUzVZTzBIVnZRSE9ZMUhtY0ViTndJVERqYks2anBPMkxvLUpfTmhUTDN2Y3hHWW05YmMyUE1CRVZ2R3h3YzVzUXZHbWZkbDF6TmZzQW1ZR3UyQkxoem5PUGR6b0MyR0h1cVVtWFhNRzRnRURRVGVkci00V3JOcDNrNmxUNllTbjZlZ1VWc01PSHNDbnI1MkhSaTNXVU9JdFhiZjV4RFJBZjdDd3FKOW5jeUNCWHB6SFlFeE9yUlZLbHNmYWZqZkZCZmwtUG9YeFDSAeoBQVVfeXFMTXNKMXd2T2RYM1Vqb01MRlVKb0lJZ1lhMVpWZGpON3JrN21iMGJfcm9uSU50T2xEYVlhWlRtNkFlM01ZOGVNM2pONzhud01tT3J2V2NFY1pGX09aRmxFeUdhMGh5YlI2MjlaWkZHY1pDRFFpbXRHc042VjRUakRXN05RZkt6TVB5dTFNbnBERGo0QV9veTc5YWtPWE5rOEoydlN2a0h2Sk0za2NkX3UwQW9mNjROZi12clZMR2JCeTV3ZEZzZUswN0JlZFctaUtON0l0eHl4UnotM1VFU1JJb0NpRlJfUTVzN29n?oc=5",
+            "source": "Koran Jakarta ®",
+            "time": "2026-11-06T15:45:00+00:00"
+          }
+        ],
+        "遊戲產業": [],
+        "流行文化": [
+          {
+            "title": "Manjakan Pencinta Kuliner, Gressmall Gresik Boyong Roadshow Kuliner Viral Indonesia Lintas Negara",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSW9SUXZhQVE4Sm9EOVJtUDh3ZGJoenBodWZSY2VvdGJ1QWxuN0FrQUM0QldSMkZ4aW0xN08taTRMQ0NJX2t5ZnZZejM3Y0RyRURrV09hMEtYdEI4NFV4WnZ2alJ5Tk5qNVBQQlNibV9TYW1pRzYzR2Z3Y1JJMG9aak9RcmJCSE5LTTFkN0tjR0RpRFJnRVJ4bndITHhjMGlCSS1YcnJGNi1Xamlpd2tUclprMHh1cVNYTGpjMWVMcDg0enFqeHhDRndGeUhuamZVZEdHTUdWV2xCNFlvX29aS1lNam_SAeoBQVVfeXFMT1lXZjNaM2h6azNhV3FjQndXSEZoMW9WVzFjbUtORFNNTUpVMHB0OVRyUXo3SFNGOGlQbjM3MHg0S00tUDlDSUFZSW9CTnEtMXlwdm5YM3o1TXVJRmdkQ0FuSG9TUkVsdEstN1ZoTnBWbk9fdFBjTFYzSkZ3TFUtRmRYZGJHT2tER1ZhSzgxdl96dXBOQm5HRHpGNi1WVmJnNUxMbmUzcExvcGpJRzM3SVZwbFEzbkRxeVlqNVpMVUNvS0FKZTZwLU1kNl8zV3F4ZUwzZXpOLXpJSk94WUtLdkdVcHhEN2wtZ193?oc=5",
+            "source": "Radar Gresik",
+            "time": "2026-11-06T16:19:53+00:00"
+          },
+          {
+            "title": "Viral Ahli Fisika Ramal Bumi Kiamat Minggu Depan, Ini Faktanya",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0tyTFlGcHJlQTBGQklhblhvZWVIa1p2QUlkaVltcTNsMGZtZnVhSGV6R0ZOMUVKOVJ3dlptZVJDUW0temRGMDNxSU9YYjd5dE9OQ2xuNlhteTA4djRDYUpJTGVxWElidThiN1VSTm5GWkFWbUJMYUhEQmxQZUxEWVVJZFRBNThzTy1vSk55ajUwM1FOaU1wR2ExSF9WUU9LVFVqVmhTOGptT2QwMlNUaUNhMW4xSlZUMnl5cWV3?oc=5",
+            "source": "CNBC Indonesia",
+            "time": "2026-11-06T12:20:00+00:00"
+          },
+          {
+            "title": "Viral Salt Bread, Roti Asal Jepang Menjamur ke Korea Selatan hingga Indonesia",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQzdZSHV2Zzh6V1JQMFdnOXl4VUo0T3NmXzV0VkJleXRMYS16NVNQWVZ3b1dwbFljU05admd2d3BRX3pFWXRoM08tVzFlOWVVaTZUcWxlQUhQU29xNUtJcVpORThmR0FnZTk0eUlTRDFNZ2gwbmN3cnI4b2s3LUcyUGxBUHFQUG9jMTFwSWtnYVJrcTBTWVBMZkFnM2I4V2h5ck9GX2hHTGpGSkRIc3hTMFh4NHl3RW9EYnJr?oc=5",
+            "source": "RRI.co.id",
+            "time": "2026-11-06T07:36:00+00:00"
+          },
+          {
+            "title": "Viral As Roda Jaecoo J5 Lepas di Jakarta, Masalah Cacat Produksi?",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXA3RU5rSW95eFJ5dnBIMV96cGgxMEZBM3BON0dENkJLLVF4UHl3UENYelI0WV9kUGp3akVZZWdBOGpGNmJKNnA3TFphWElBZEk0Ty1jb2MzQW5Tbzk2R3Y3bFBpcXdoU2k3eFpacmxST2xmallPOUxxeHFDMkplajlkdTFIRmRIdUg3ajhUVERVMmxjSm5zUGhKaG5TdE9lUUpvSUIySktYcGt3dWJSdERNWGZld3JYY1laZ3pzNU5HdDJUa2Vv?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-11-06T04:15:05+00:00"
+          },
+          {
+            "title": "Selain Salam Tiga Jari, Inilah Beberapa Simbol Perlawanan yang Pernah Muncul dalam Aksi Demo Nasional",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG9venV1WnZZOHBuTnZVLU9RQmE2akZFRzdxVmtVS1Rrd1Y3bUZoSmktZVBQRTVjZ0k2RndwOW8tdG84Q2VuSUNOb2pwQUJRclI4cXhIV3h3ODE5dGZfTWk2ZGo0VER1NUZMV0t2Y19jUHhiV21FRkF1QzhSWkU4R3dWcXRja053ZVNFbEs1ZnRubXFyeDJ5b3NUMUlaOV84emJXRQ?oc=5",
+            "source": "Mojok.co",
+            "time": "2026-11-06T03:51:40+00:00"
+          },
+          {
+            "title": "7 Cara Cek Tren TikTok November 2026 untuk Menemukan Ide Konten Viral",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDF6cENjckpkakNCdkl6TDZJRDUtMFJEUjFHT1JaRDMwRHFvNzF2ZlJZdVdhU2VIUC10eENaLTdXR25kNGpKRlp1elhKTVFSdzJXb2pycl9DLTlaTnZ3blhxR2MtUERfaEd3bHpxYjRfam9DaXJLUWtTY0FfZzFNY3JITWpWbk45Y0IyYklYbmk2eXlxY1dUWHpmUkZ4cjc2Rmc?oc=5",
+            "source": "Akurat.co",
+            "time": "2026-11-06T15:11:19+00:00"
+          },
+          {
+            "title": "PT Daehyun Bobbin Indonesia Mendadak Viral Usai Karyawannya Alami Kecelakaan Kerja hingga Diamputasi Tapi Diminta Tak Menuntut",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcXlqTGpOU2xyM1d3V2J1eDN0Q0thcTV5dXlVX053Si12S2I5NmowMnRFX0FycXE2Uk1sb3FEeUg2TGx4OEJNWS1PV2dFTTYtc1k0VHlZb2JIQXVuSUlPOUZDUTRCQ1NZLTJGSnZEZTlraExGNDZmMGQ2bm5xOF81SVNZaWpNWlFkSW8wcjRUVWxVVnRsMjVrZTNUSG1sTmRrV1pxQVd1czBhdXVFcmhkdmt2dk5vN3RRRFNqdjlnZWU5Z2lNYUlHNHJxdTdYSXVrLThvRUozeTJ0ZUtfSkNtRERsbzRPQmZVcWZRYm53TDBRUFUwdG9mTnNiYWdWd2EyaFJaTTVteGc?oc=5",
+            "source": "REQnews.com",
+            "time": "2026-11-06T07:30:00+00:00"
+          },
+          {
+            "title": "Lagi Viral! 5 Deretan Motor Listrik Terbaru yang Paling Banyak Dibahas Pengendara Indonesia - radartegal.disway.id",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEtmTHpDRFF0TnZicFdDYWQ5MnlQU1JYVGdfVlVjMzM5bUwtZXBCWXFiYWpERWVjMUNZalRINzFQX2txVGFlXzNzQ2xkSEpwbkprYU1PWnFFV2wtaWhUQm94cTk1aWpaRmo4Qm5TVTROM3BZblEyZmVrekVIYm9UME1VUEk2ZjJzd3labW5GVUs2cFNkazByTmRzMGNwTGd1VGVZTjRiZ2k3b2ZRMXp2dHF2NG1BbEYxbGhfOVRxX1RYV2YtQ0hCb0RqYVpzYzVVbklXcXlPM2fSAcoBQVVfeXFMT0hjZjljMUpfaTNzVWlTMkI0a3ZmZF9lYzV4NHo0MlE5aDVSTGRZc3pYa1FON01qcWtsTnNsQzB0RW1UUXNlM28tdGpxaEZtQ24tOW03RzZxcEVqXy1uem40TWowTXQyV183eWpaZ3MtLWFLSWMyYVVfY0pNbjk2NThnXzRMaGdIQ19LVDFjb3c2MHZUYTRRTDZ5WUQ3ZFZxSDEwWnVKOVlJWFp4OV8teHZ2czNZeG03VUdLREV6VGg4ODl2U2I4TmVkQQ?oc=5",
+            "source": "Radartegal.com",
+            "time": "2026-11-06T03:00:00+00:00"
+          }
+        ],
+        "流行娛樂": [
+          {
+            "title": "#TemanDishub, Dalam rangka mendukung kelancaran kegiatan Konser Obat Stress untuk Rakyat di Tugu Proklamasi, Kota Administrasi Jakarta Pusat, Dishub DKI Jakarta akan melakukan rekayasa lalu lintas pada 8 November 2026 pukul 10.00 - 21.00 WIB",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZG9ZSlB2ejVOMTROSkE2ekFsTlRwdWJKaXlLYlFtR2xRSjNKR2tCYkV1WjBycWRJQnB6VHBUZ25pNG1hX2M5aW1MUWFaMEpZTUE?oc=5",
+            "source": "Instagram",
+            "time": "2026-11-07T02:05:02+00:00"
+          },
+          {
+            "title": "Rekomendasi Drakor dan Film Korea November 2026 untuk Temani Akhir Pekan, Ada Kisah Romantis hingga Thriller",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObUlRMHhEeUhhMHN1elhsa1NzOGJaMFNpNjVvVm5BeG1VMExDMUVCMFI5RWs2RGxMUmhVdHl4MG9jLTFCZU1IT3MtLWVtX19uSUx0YnItSWVwNTViZTBtX29qVFBEYTNjY3hkYlFyWVYtWV9ncDRicTQtWHlzTnNFWGZEX0xIaTZza2VXalNKWHJ5T3liUFlob1NmV2JzUEU5VnpCUkE3dG1qRXNUWEc3YU1EZ2J5UHM2bmNUVW1RMzVlVjVCbE9adlpBbE1pd2JhNEpWYkx5a1FWMkVpZVlUZGxQbzZvSjR3azlhS0IzSlZhVXpSckE?oc=5",
+            "source": "MalangTIMES",
+            "time": "2026-11-07T02:10:00+00:00"
+          },
+          {
+            "title": "Dari Keraguan Publik ke Storytelling, Strategi Brightminds Mengawal Konser YE",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXl1aHBiMERjTlNLbUl3XzZHRnpGc3lDNUNHdzZXOXlZQ0MyelJLWC02MDB0LTA0aEFJOXpHdjFhS0lrVkFXSEZqdVQwWE9vY2hFQ0RFbXlBbFNnVzItMGVQOXhTY2RHNDVTc2dhRXlaWVZqa3ZMek96cEd1REFmTmRmSk16Z3ZSRVM4RUFrVHl5NzR1TnQxTkpmQ0ZRRV9XMGIzUG0zZldmUQ?oc=5",
+            "source": "SWA.co.id",
+            "time": "2026-11-06T13:30:00+00:00"
+          },
+          {
+            "title": "Kesepakatan Rahasia Mengungkap Kendali Penuh HYBE dan ADOR atas Sensasi K-Pop NewJeans",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk10Tk5mQldEek8yeUlBZ3JSRXlwdEkwcmlXMkNrSjROb3RSa281UkFzMGxyYkZPWXNkVnVEN3AzX09IajczYzUtcFNQRXZlX1h0TzYtOTgwVzVKQ1ZHbHg2bEhmazJaTTNsNE1mRmlHVVd5bUJRS3BtNWZVc3pDXzc4QXA4WFQtVUtzdXpiX0tHM2xWb3F0NVNSQ285R2NyOTN0dlN0VQ?oc=5",
+            "source": "Hypebeast",
+            "time": "2026-11-06T09:00:43+00:00"
+          },
+          {
+            "title": "Film Komedi-Drama Indonesia Meriahkan November 2026",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGRqQU5Gc2hXWjVJV1VfWG9uOGNOLTlET2N0dkxzb3pUWXNnbDV3N3NWX2lNNE1JWmtMS1dFSlphRHJaM0pEbkJtYWFpTG1JOTVwVUp4ZWJhUGlIbDZ5alhkc3ZWUlk2bmdYMDNwM21kdVRxb1VqdDU1V3lhUHpLX0VRa3hsdTRCX0s5Mjd4QQ?oc=5",
+            "source": "Lenteraesai.id",
+            "time": "2026-11-06T14:44:53+00:00"
+          },
+          {
+            "title": "Daftar Bioskop CGV dan Cinepolis Putar Live Viewing BTS ARIRANG",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjZPWmJGUmFGZS13d2p1aGEtWGtCdTR4LUxtNVYxZFpyT1kxaGxwWnRUMGZRUW9abWxHcEtHU2wzNWx3YXd6WnFCT0x4SmF5UmllLU9ES2tHWXkyOVlxMDBhREtONFNFelhmQnM0T2twUkIyZmZlclktbk1MUGVlMUpZc2FEOWQ2SzRaZkcxS1gxVktad2RaeEhRSXZVeEVPMzdKZy1NMUx3ek9GWDJVdUtMQTc1Z3ZRZDNTOGIwcEd0eThvSHfSAcsBQVVfeXFMUDlIckJGalpUYVlTV2tTd2hkUW5mSlBJblpudEpOMUhYM3Y1aTFPLWNHNGZBYkZ3NWxmb01aNU55LThmNjRiNlpIZkI3RWNIVXhjTkdlOU42OGVPQlJscmxUaWtvV09KZnhCMlpVQktaT0lPMUVKeGJLa3M5Ulp3UWRuYmRmRERvRHN6b3RRSWNrVmQ3NzRFSkEzSjBBNWRxTno5LUtiMFMxOVFFMmswYXVPZW1sX0FPV2VicFEzT1M3Ym10TEpxZ2xEYnc?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-11-06T23:20:06+00:00"
+          },
+          {
+            "title": "Naykilla Headliner Hajatan Gak NRML, Konser Ko-Kreasi di Facebook",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEtWRFVmVlAyWlJtQmNNanJJbUR0a1RiS2trRnBEOVE2OWZpMWRhOWJ2dFZZUVdwM1FPVzZYSFk5NXY1MmVsZGljMWc5WFF5NHg3WVA1UFJySXhpSV95UWtzaVUwb180V3UwVXV6N1NfYUlUdVVpZktpM3BVQ2FoNU9wZ0FmYU1NVnM5Uy1Fck94Q2Q1RTFQRmxrcmtjdjRZU0ozb0pVaGp4Skp5RXBpcEw4S2FJQdIBuwFBVV95cUxOR3A3X1pGZTA0UjE0RExBaVRNRlFTaEt4WnYwSHpwU1NZRHdwc3Y5TTVxYVVsX1I4cFRLMXdCVGFzLUdISkFhTUMtOFhueDRvOUs5UU9HbVFYMzZlUnlwaGlqMmdkc3JXRjJfLW1DS3lja3lXMzdPN010cl92MEJPaVRJQ0lDVlJwVG1TWk1teF9pZzctWFVCT1dRVmNicEdRa3A2aGdkVHpPZ2c4TXBaT3Jyenh2STV1bFFR?oc=5",
+            "source": "KapanLagi.com",
+            "time": "2026-11-06T15:15:28+00:00"
+          },
+          {
+            "title": "Syuting Sinetron Stefan William dan Angela Gilsha Dimulai, Adegan Duda Celine Evangelista Terekam",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM3d2UDNyaUR2Wk50emg0RmNlb3hvODVOMWVmNUJrM3UwX0V6aUJuRGV6VEhVRXFwTGhDemQxejFmUzZqZGh5dVMxazZPN2NOUExBT3V4WS1vVnJtUXo5aklfeUlzODhEaGY4TERrTVlsVll3aERCM0t6QjRIQlZwR0hSbE4tX0E4c1ZfNDRXYll1YUN2d2NfUXhrRHRMWWVMYXVleFMxclRsbF9vWXdUSW9iSjczZGxhVEQwR3JXbWVJOFpDTnVSUDlaT2xGNEg5Rk1mN1djUFA0azQ?oc=5",
+            "source": "Tribunnews.com",
+            "time": "2026-11-07T02:25:20+00:00"
+          }
+        ],
+        "重大事件": [
+          {
+            "title": "Pemkot Cilegon Gelar Rapat Penanganan Banjir, Fokus Evakuasi dan Kesiapsiagaan",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWF6a2FWSmpuQkhMdzktNUZjRFl4aUROdFBYT09EUGRrNmtpTUhfVVN2dzhydjBzVXNFSUtnbDhUUTdYWWdrb0t5TXRiZlNkbmtYUzFwQXFfQ1dvUXN3YW1QYWN3THo3TFR2Mjlvcnk0Q2N1MGoxZWgtdnZtUWtwWnFFZ3VjaWFYVmVET0lVMUhrTTNXektJN3dJSFFHal82dU9SMTJEaEtNSWY3bFNhb2tVNU1WOEFNbGFyWFZaY3RTSGN1RUhzRDhn?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T23:46:33+00:00"
+          },
+          {
+            "title": "Banjir Musim Dingin Ancam Pengungsi Gaza |",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZk1NUTRkc0syRnphNGVJeTAzNXpLVUFHeDZ3MzJrRzBfR05wUElWTDRScW5aN0dza1lfUWxnTUhvMUtjdTVtcmhsaGxid3k2WXFYelRzOHJiOS1JMUhsWm1POS1kSVNzOGRhTEJVX0xtWmJ1bERnYU9CX0VLOGdoMHRnaw?oc=5",
+            "source": "Republika.id",
+            "time": "2026-11-06T21:00:00+00:00"
+          },
+          {
+            "title": "Pengawasan Pemilu Bukan Hanya Tugas Bawaslu, Masyarakat Juga Bisa Berperan!",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkJpQXZCQVZPam8weDBUalk1eVVXT3Y4QUdKakdfVmhOSm1pazBXcWl1eDBuMUFHTS1JZkNTczZ4aUdEbjdnQVZaYlREYnZUV1lRbVFUR21GMmcyUFBsc2xKRzhUSTdRZm51VElrTmwyLXRHd3o5d1NPME1rQXp6bkdPTnhhYTBZNFVXOVpjZFlXSy1fY1FYcHNGMjFuMm9vSnRSaDFhalBEZE5jVDBqYQ?oc=5",
+            "source": "Bawaslu Kabupaten Tegal",
+            "time": "2026-11-06T08:02:48+00:00"
+          },
+          {
+            "title": "AHY-Sachrudin Gercep Cegah Banjir Berulang",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0dpb1BkZXNhV3VJWVhqRkZIZ2FpTVdkUkNfdmRCdE5hOFJHZkg3UWVlTWExeDJ5QkQyV3YyaHVqeTFoanFndEtpZ1JFaG4ySGN1emZaRFM3SThIaWotcUxpZ2R1RVQ4d3JjS0dLOTBSd2N5TUxhOFJVR2gxQjBxTXFGeHBrOVhfUEFkSGhnSlVOV1FQYmJCVUxR?oc=5",
+            "source": "Pemerintah Kota Tangerang",
+            "time": "2026-11-06T09:30:00+00:00"
+          },
+          {
+            "title": "Kabupaten Sigi diguncang gempa bumi",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0x6dUEwNm9qLS1aUndwWWNoOE1EcktTYXFKSzZIWjR5aG9aZXcteHYzSDJLbmdiQ1B6ajloQW5IbG82LUc5SFFwVkdWNUFycWpyYmR3THNUSDBxWGE0VnB2YVJRZ3MzbFRXRThqbWV4T0pMTVBpbjYtU3NXeThTLXUtQnFEdmhw?oc=5",
+            "source": "ANTARA News Makassar",
+            "time": "2026-11-06T21:42:34+00:00"
+          },
+          {
+            "title": "Israel Lepaskan Tembakan di Suriah Selatan, Banjir Bandang di Arizona | Sorotan Dunia Sepekan",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUNpY0tqYkhQamZQd3JRdVliemgxemdKZS1rN2d6cngzM0djaktmV3BNcHp0c1gySkRoN0tGNEFsUHViQnRoN2V0aFNwaEJsbG80SEV6bWJ6SlB2dE9YdjNEUmZMR0s1WDZ1bjBLSm5OdXE0MWdpMFZCTkcxWHI5Nk1OT2d0SjdteElXam9vWEZrYno0eGtrTHVVb1d2R3Y2bXdtNFh6aG5fYlN2S09JeDlXbjJPczV2YS1N?oc=5",
+            "source": "SinPo.id",
+            "time": "2026-11-07T01:30:00+00:00"
+          },
+          {
+            "title": "Pemkot Cilegon Perkuat Koordinasi Tangani Banjir di Sejumlah Wilayah",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEdyWnhDRExPaGJocE1XcW05bUpmdkpmTllWRXI3ejJvTXIxcFNkQmdVQldwalRwejNuZ0dEOHVsOTBTaVhJX193ZjJ3MlpPZ2h6anhwOUtaemlGd0s5eHEyR0tVeFY5RFBrT3J1YjhZWXBzV1M2bnFpTXpocV9uYWhSOXgzN1FxMDdiZVBqUHUwVldFVXl2Z24yLXVpQzRPYkp5MTZMZHJ6UWl6ajNBSnpnQjJ2bmdOTGZPNg?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T22:19:51+00:00"
+          },
+          {
+            "title": "Pemkot Cilegon Siapkan Strategi Responsif Hadapi Bencana Banjir",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnBkaFdnVk9iZ1M3MGxwd3lUa1RsVVVycVBmUXdVczlJaDVGWWFXQ0ZMcGd1aVVNQkwwZE80SjBsWjM4R3NNbnA2X2pRNnpJRlFkaUhEbGRQajFjRnA4NzFiT0pjRW8yR0ZhWDh4UldwMGF3bG9FR0U1NFRSajdqRFFFRHJzMjM2VTExal9lTHVmUVdldjY0cE0yQkZCM3BXblJOclJwcktXbmxCZWk5bmdSeGllQQ?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-11-06T22:18:37+00:00"
+          }
+        ]
+      },
+      "rates": {
+        "USD_IDR": 18098.98,
+        "TWD_IDR": 551.08,
+        "JPY_IDR": 114.28,
+        "fetched_at": "2026-11-07T10:33:09.305798+08:00",
+        "USD_IDR_change": 0.11,
+        "TWD_IDR_change": 0.74,
+        "JPY_IDR_change": -0.24
+      }
+    },
     "2026-11-06": {
       "generated_at": "2026-11-06T11:13:26.691227+08:00",
       "categories": {
@@ -7805,410 +8220,6 @@
         "USD_IDR_change": -0.02,
         "TWD_IDR_change": -0.01,
         "JPY_IDR_change": -0.02
-      }
-    },
-    "2026-10-24": {
-      "generated_at": "2026-10-24T09:23:35.132209+08:00",
-      "categories": {
-        "經濟與匯率": [
-          {
-            "title": "Kementerian Komunikasi dan Digital",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObElaTWVPdUliamJWazlsTGJuNGpMZU1RVjd0ODNVTmlyWnNObjN3NVRCbEkyZXk5cWtCd2FWaDVwNTR3SExvandIMG5Ga1VHQkYyQjl1Q0JCWExIQlNwdFVFN2ZMWXRYSDdCUUNRLVlTMEotN1JsSUsyM3VTR1R3UmtsVy10dm51Z0w0OVF4eW5xcno3UzZYRk1vMVg0UmVrZGhBVWdKTzhaUWJicVJGakxxczJWZw?oc=5",
-            "source": "Komdigi",
-            "time": "2026-10-23T22:11:02+00:00"
-          },
-          {
-            "title": "Bahas Masa Depan Ekonomi Asia, UM Gelar Asian Economic Symposium 2026",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDJucjlhUDZoY3UtMHlCRW5OUHhzV1hhUGFhSDdjWkU1NmRwX25CWFdmeUJ6ZVlreGJLT1FwWnZHMjA0bGJLQVEyc2NpQmFJUzNNOWkxckJmb2hkeENKMHJHUWxWbm5NR1ZIeXVNWkZwS1FnaG9wNkxHVTYyUXJ4dG9MTzFuQ05ST3p5VkdhVQ?oc=5",
-            "source": "Universitas Negeri Malang (UM)",
-            "time": "2026-10-23T14:25:15+00:00"
-          },
-          {
-            "title": "Perkuat Pertumbuhan Ekonomi Digital, Pemerintah Dorong Media Lokal Jadi Penggerak Ekonomi Daerah -",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHl0N0FWOWZkVVVJQlRjZGRZVEdQd1c0eGRPTzkzMXA3Q0xncFYyWkE1Rzl5dXdRb3RsY29iUG9TU0FTZTI4OEpVSUxnTEZtdVpnaHFTZEx1ZVNNTGNxWnZBMklVMjVSeE54MVk1dFlmNkxrUlQteHFsNU1VMXVQQVZPcngtTGtlOUF3ek40ZDlZLUY4RHIxQUVGRnV0MWp0TldNcFVLNjdFbDF4Mm0xckhLc3hBTXY1TUNJMGFSWklObDZ3dmliMlluY1oxYndpencxc3RmYw?oc=5",
-            "source": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
-            "time": "2026-10-23T10:42:28+00:00"
-          },
-          {
-            "title": "Video Bahlil Lapor Prabowo Stok BBM Aman: Cadangan Pertalite 16-18 Hari",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFRXbUNQU1hpYmhzSE03dDFuZGFtc3hCWFpJazZsN3VEVmNkTzlSN0RET2YzdzJJWEVvRkFVQ1RSbWItVHNSZlM1MTE2OFh2cnRVR3VabDBpR1BQSi1pd1BBQmdiMWpNSmFKMzQ1V1ZfQXpYaFpQb1RfaWZneVY3VW9wR2R5MjBlanNHLTJSTnFWZFJuNDZ6M0dQbjJSTS1FX2QyV1p0YldMMUwtOWFvTGFvQWpCbzAwY1oxNzdtRQ?oc=5",
-            "source": "20detik",
-            "time": "2026-10-23T22:58:14+00:00"
-          },
-          {
-            "title": "Indonesia Masuk 7 Besar Ekonomi Dunia, Apa Artinya?",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjhFdmExbDN1YU9VRmJpeF91YXVGVWxGT2lIX1p6YWVKS1E3bGI1a0xqNU1CMzFVSThBTmdVeVI3RjJOTHBKSDBqX3ZvOHoza2hxYUhCUFlCR2U1WlpXcExWZ0o0aHdTVnVybVdyaGEtVVdnOGdSQk9QcXV6WGJZVVNuOFB0cmo3TWVEbzBVclZGX25fOW8tWjFTVXdZM3lISmRYaVZKQnJWVmg1RDVNeTd0UHg?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-10-23T10:35:14+00:00"
-          },
-          {
-            "title": "Kemenag Siapkan Template Pemberdayaan Ekonomi dan Syiar Masjid agar Mudah Ditiru",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0pkVkJtNkhfaVcxUHhXamh5cmRFanZZekpxcHJCX2JYaG1NSFUyWHlIYzc3QTRFWnhTWXNOU1FaR3lJMU56T1JpY0FWMG13UFlJejFVcHhvLUJ1S1hIV2ZnVVJUUEhKNUJrRnRsSGxhQV9QOWZvWXlzOXB2NUVpTTVUZ1hvLWp1a2ZIWUFCQkZFcnk4bUJSTmlqeWNDNTl1YTZ5ZWc2SVFGNlZkckd4eXZQbUxMMXdQ?oc=5",
-            "source": "Kementerian Agama",
-            "time": "2026-10-23T10:58:00+00:00"
-          },
-          {
-            "title": "Hadir untuk Masyarakat, Polsek Tanjung Raja Urai Antrean BBM dan Lancarkan Arus Lalu Lintas",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOV85UEJQSEhsWjlTd2tHcVpBUDI3M3RTRnVoZU1vTjNuMHNDc09XczFiQ1BVMnJMVkZTM3ZURlBGNE9FLVA2aVVRSERPWEkxTzZ5LW84LWlCQlVLNTR2Yl9FcHk4a0VhUjNXSUZjcm1RUTBWSlAxUWZ4ZmkxTGM1VktxQVg4aTFLbFFxSlhHQW5CNjhKUjVndk1lSDVmWW95TmNPMlpFWFJtZW5rQ01FT3FzZlFEYjREMlhpUnI1UmFOTHMzT0Q5LWtFN1hpdVBJM0VZ?oc=5",
-            "source": "Tribratanews Polda Sumsel",
-            "time": "2026-10-23T20:27:03+00:00"
-          },
-          {
-            "title": "Penguatan Koperasi Pesisir Tingkatkan Posisi Tawar Nelayan - BRIN",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1Z4c1VHbUUxWW1nOWFXQ2EzMkJ5SzFxZ0ZmREFERTVmYUVyZHFaTlFqbWRaRXVHa2FfaXZHTkhRamZ1Wlg0d2Q0b3oteTRYLW9kTGJYUWEySkh6QUZLNW1TeVJ3Z3pHVkN6V0d3dVBabkNEdEpISGxfNWE1WU1RaDdXUDRFZDdaWG5vemZqeWlIOFNocklJSw?oc=5",
-            "source": "Badan Riset dan Inovasi Nasional",
-            "time": "2026-10-24T00:12:17+00:00"
-          }
-        ],
-        "宗教與節慶": [
-          {
-            "title": "Harga Pangan Dipantau Ketat hinga H+7 Lebaran, Disperindag Cilegon Jamin Tak Ada Lonjakan",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQak5vOUw4dERDcVJ5Sk9ZcXd5dzctNVVuV3RqamxSSWdodGVJcHYwTEg1SGZBa3gzWnhuRlZmY2dEV2g1RWhCRGFENm5sY216YWhFNENRSi1WX2xDcjdBRnctSDNIYnl5MlRVdTFaOW1GMmR3RnAyejBiTFVMZEl3VFpkUXlaaGdLS1ZYS1hFUzhQaVFtZmYtQ0tRSVI2UTR3MGZ2XzdiOHZWUUlvMXZQcjRra2RFM3UtNnFpdTNSaS1wQkpxQ21TVWlUcm83WTJOZ2xYZ21mQ1U?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:07:37+00:00"
-          },
-          {
-            "title": "Telkomsel Ungkap Strategi Iklan Ramadan 2027, Konsumen Punya Tiga Pola Belanja Berbeda",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTZ6MEpTejVNcHB3Vkg1d1hUdGdtNHdfZFlvLXIwX0x2cUFWT0FSNXJTT1o0WHB0RFpfWGdwYlB0Qmx2dG9ORzk3MWRPbWNxYVRHbjRsQTlNY2syMUFXazd6Sm45eUFJeVRGQXBTNjdYLXJmeFRPTzNNc0d2ZHZram95aHowMUM2ZnNMdmQ0X2szSTBXQURXNmo1bUdMSk5zQ0lXeGtzbTJULVpfWHJPNFBPaw?oc=5",
-            "source": "Marketeers",
-            "time": "2026-10-23T07:00:07+00:00"
-          },
-          {
-            "title": "Syiar Ramadan Al-Khairiyah dan Safari Ramadan Gubernur Banten Perkuat Sinergi Pendidikan, Keagamaan, dan Pemberdayaan Desa :: Berita Cilegon",
-            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTXV0WUx1VjRKZEhFakRKeS1RM1I0dkxpaG1JdHJKZnI3SFQzSnQyYUdTNm1FcE1VTVBmYWk1dUNsR0ktTmt1dTdCTXB6cS03SEJ5OXozbTExVXdna2VhbkhzQTROY2ZFakdZaWQ4RUV2MngwMkxvd1hHOG16MDNEdVljeFpPM1ljMzBrQ193ZUdrT1Y5MXdER24tYlZrLWx6UkVVQzRzWGRCalZFOUxVemFXNEVKVVpta1laNWVyNzBFYUlWN3BKZzhwb01ORzQtQlpWT1lLcDZvdnBHb01KQUFQUGFJcWhCTHEyeGoyWFRtNXY0bHlEUzBQRUFKSTdkRXk0ZA?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:08:53+00:00"
-          },
-          {
-            "title": "Video: Inovasi Minuman Bernutrisi Dukung Tren Hidup Sehat Warga +62",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmJIaWlWSi1YdGxvOEdjYTlaNWVvT080c1cxenJ6T2dCUG9SMVAxN1RQSkNTQ1RxbTVWandndlMxOGg5SHlXYUhTcnJEcGl3VVZkQzFGYlBjZzV0MDNYQ3FQUVo4N2FGLVFFOGd4UnNrelcxM2pjOTQ4MXdRLVNJZ2JHWFFsem1lX2FXWjBnM2Nibkd5eWlfNzg3dTlqaWFaOHl0RS1kSWpVQjVrODNFSVVwYlEtQ0s3SnpueHZvdHd2QzVBb1NMdkpGWQ?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-10-23T10:29:56+00:00"
-          },
-          {
-            "title": "Lonjakan Sampah Lebaran Jadi Momentum, DLH Cilegon Gencarkan Edukasi Pilah Sampah",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUJJRVM0S3JzcWZNd0Fqc2NnRkgwazNiNVRSX1g3SDYzNmpTVVN4bHFZNVMwR2JRVVZaVTNoSGR5eXhCRWptazB3eWd2YlRMRThEX3BJS2liN1ZJcXFMZWhJbFpnX251d1NaY1E1QktrT2pxUmcxTWMySVRDbVlVUGstbEFzRVhNYzRaWjk1RUkwbTNCVGZDZGdlcURsOFhBX3BSOTBtQ2hTbjhLZzI4MHpoWjVpbXIxeVN0LW5odTlMQUVzcUNJbEJWSjVsQQ?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:12:37+00:00"
-          },
-          {
-            "title": "Pemkot Cilegon Gelar Gerakan Pangan Murah untuk Stabilkan Harga Jelang Idul Fitri",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2xNd0NTQU90YlJ2ZGh2UE8tMHBNVW1BVllnWk8tb1YyNWR1LTdwSXItX1FMMGRnbnVqRm80TENKVFJ3WmtkQS1iTzd3N1RoOTZuV1Q0M1dITWhlWlFJcGhTeEoxb040djE4R3dDY3ZKaUg5dzdlbzRGMEhOd0F6VThzbDVwc2RfTXl2cVdTYlRKN09OTjl6aGNmSDRHRlI1MVVLOU1BZVdKb2VoLVg1RWRTZE5EODVlRVFvbXFmdzZwTnBWQ3YwYlprQXcwdw?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:08:55+00:00"
-          },
-          {
-            "title": "Pemkot Cilegon Gelar Bazar Ramadan di Kecamatan Grogol, Intervensi Harga dan Jaga Stabilitas Pangan",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNEhQeXFIWnIwV05CSXRfeFEtVGFqbkc4d0FPOFRQS0hIMlZxc0U2eFdmbDVfcF9xNXc5ZFJXeUlyRVFqYl9RbHJFNVdkZkM1Xzc4WG02WXE5SHZUWWdsU2pHOTltRXFEWVQ0VmRiZll6NTdlc25RWi1ybmJKa2FpWmUzZlBBRXhaZ3cyU1BhNFlDckllY3NpTzdxSzhYNGlvT1piQzNhQTZkXzhwRk55WjBxUF8xcjBJMHc4ckxyQXJaWlhoQUtCdXZLcG4zMFNoR2s1V09OZTNtb2JMbWtKNXo1NUJWZw?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:11:44+00:00"
-          },
-          {
-            "title": "Harga Bapokting Pasca Lebaran di Cilegon Stabil, Disperindag Pastikan Stok Aman",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnJjRENBLU5jZ251Vk5DellPdkVuWGFjejdZcl9NNEhFUGh2b09rYXlSbXFkbFJxd2xtRXZXXzBaMmpBWkJSR0VyMi0tY0JuN1BpSmN6bmFhZDRUczFlSk9FbHpzcVZQeUlFYzNPYVk1MVdsOEtRSkRLNGdMeC1oMVY5NVZqQUZEczllZFhjc1JVbzJSZktERTZkbjI2RkR1akI4Z0MxYXRqeXVzUVMwOHpxMnptbUV2Q2MzNGVGVENPVmRZMXpLQUh2TQ?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-22T17:08:33+00:00"
-          }
-        ],
-        "法規政策": [
-          {
-            "title": "Video: Ketua OJK Jelaskan ke Prabowo soal IHSG Anjlok Imbas MSCI",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkk4T29vQ3RQdjY2a2JTSlp6ZHVOOHNJMF80Z01JZ2lBa2ZuS1h2ZHRKb3MyLVZtdGY4SmF6a3VweU5Gb1h1X21lUlQxVmpXZHQycnFaQzgyWW5OWUJQRXVHWS1Qc3BGX2FFX2Zxa0hQaVJnbUp2SzZxRVdPVnY4ZG1PZng5TktvODFRMW5PV2t4b01La1NMb3ZjVGNqSkxsZWZ5MTEwaUZhNVhjWDlmMUszWUl2UQ?oc=5",
-            "source": "20detik",
-            "time": "2026-10-23T20:50:09+00:00"
-          },
-          {
-            "title": "Usung Inovasi Pemulihan Adiksi Judi Online, Mahasiswa UNAIR Lolos Final GEMASTIK XIX",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbEU4Nno2RmczZnQ2MTJ0cGJqZHZUaEtRNkJDbjdWSVNpWFBWdDlZNmVUb0U5cXFZdUI4ZjhsRWgwendHRnpJdTM2VGVQbXpPMXpCajlvTkF0b3Mwa0RhSWRUalNtYlZRQkV0Vk9RbnBvbGluWTNVZm1CTkZUNVloZ1lpTEZfbHFKVkgtZ0p4SkNUM0t5V21yZjFNRFZONFpwUjBxZnZVRQ?oc=5",
-            "source": "Universitas Airlangga",
-            "time": "2026-10-23T06:28:31+00:00"
-          },
-          {
-            "title": "Markas Promosi Judi Online di Makassar Dibongkar, Raup Rp1,3 Miliar Setahun",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHQtQjVJMVpQQnNYbDhNQS1ORGxGN0t0ZV84LS1TWktEOU9nUmF3dzE4Z08wSXA0dXRHVTJSNE5jVmF5dGVMbWV0b2dnenJVZ1A4dGVCN1NVN3VHR0VVSjVRWG5OLTZPODJNU0xrVGpnYXVJMHRmcjR2VUsxVTFkV0RWV3NCdG5NZ2R3MnhQZmJFeTVmVEJlQS1MenhJNXFUY2RtcG1UZw?oc=5",
-            "source": "https://distori.id/",
-            "time": "2026-10-23T19:15:42+00:00"
-          },
-          {
-            "title": "OJK Bantah Isu Pencekalan Dirut MNC Bank",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eVlETF9jZ3M2R2RHSDBJMTQtMGtoN1N3enNwcU5mTnBoZ2I2dUczUHJWVUZoVF9IMlNaX1FnRFcycHVaOWd0TUdaNVZaNkYta1U3M1duV0tfZFNhYkEwdjVWSnhsWEJrQ2JoZkVPcENBNmQ5?oc=5",
-            "source": "Lutimterkini",
-            "time": "2026-10-24T01:05:36+00:00"
-          },
-          {
-            "title": "OJK Heran Potensi Turun Kelas Bursa RI, 16 dari 18 Indikator Unggul",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2tlM1FBR0cwX0JSWHU2VWMyampLaWVNRnpZaHFaT2Rkc0ZhNkd5RTdLS1dpYXM1N3RvRGZhbE9Gc2ZhajNTR011V2Y1ZWE5bXBnbExaYXMzam9PaU5IeUtqLTh6LVoweTlHelBsRHgtcWN6R3NQQ2lWdXBZS1lvUlNEa0RuZndOaDJqdWxUSG5PTUhHQlhRTDRlWWhvLWYtZXhPZUdEdjRpdHpaMzRhQllZcXZobFlKdkt3THVWMVgyQXcydkFV0gHMAUFVX3lxTE5DdlRhOUZ4VUpiWF9jMldkVnlCcGFCR1liN0FCM2gzd3ZkMzNkVDMzb2sxY2dTWjQ5OUU1bU5faUEyWXo4eEhVbFViMFFxUzVQdWdZWWVBTlRJR2RfZWktLVI5M1J0bGs2cTlleWhyb3ZrZjJENzI4WmdDY21zQWc5SWp6eE4xNlVpYUZnRHM2SFp4LTV1UXlvWkZfOFdTMmxvS3JrUm1JNXctaXpRWFZvWWRHOW1Icmt0V1o0NWR3SlRxdHJqY2YyX2RLRQ?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-10-23T11:34:28+00:00"
-          },
-          {
-            "title": "Serius Dalam Penegakan Hukum, OJK Jatuhkan Total Denda Rp2,52 Triliun Pelanggar Pasar Modal",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1k3N1BteUZWV2N0RGxwUjRWVDFDbFczN1RGZXZ5bk50S2Q0Tm11MGhxUHBYdGg0aFBmVkpGVGlRUUFFOVlSSUpRNzZJXzctcGpOUVI4TXR0UFZ0clpVbk9UUUlMT2JzSmdITUQwQl82cFRDdW9iNUxVX05rc01sY2ZEYnBDZml0VjVGWGQxU2M4eHdKOFNQS1d0aVliQjMzdGswQ2FYb3h1dGtLZmU2a0d3?oc=5",
-            "source": "Inilah.com",
-            "time": "2026-10-24T01:15:00+00:00"
-          },
-          {
-            "title": "OJK catat total kredit perbankan di Lampung hingga Agustus Rp119,29 triliun",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXgyNmZVNnlacEJ6V3Z2MVduNG05M0NyNnZOb3lpT3lIYTFaeG1Bck5nYWRUS3FKaExXX0tPcUM1b05BVmVWVnYyMU5JRlVtM1NsMW5mM0wwTnhlVHpZQnZUQm9GTnEwLVVsdnBrOTFNWnZkb1BmbXFSSmJTc0Y0TWxNVTRmM1o0RU01TVJmUG9xdWdhMGpNN2diS05TOWQ3dlhudWxJeWFDUVc5d1prWFpRc18tLWFJa0xj?oc=5",
-            "source": "ANTARA News Lampung",
-            "time": "2026-10-23T13:15:07+00:00"
-          },
-          {
-            "title": "Selain Denda Jumbo, OJK Siapkan Langkah Pidana bagi Pelanggar Pasar Modal",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOckh0QWw5eHh0THgwYlFIcVVJM0xMNmhlUHRSS0lHSHNCdnpFRmdZUXJIbWNqdlZ3QWxzM2FfNnliQ3JGMVJXT2JSOTVmMEowbUtwWGltLU14eTFSY3JwSHRpVXFzN0VsaW5QXzZaV1JraHlYSHdRdldVS2YwNDFsMUg2R2pEUWlnWWFUVi1UYlVfSHRWd04wRzcwM1F0Qmt4NlFXZkc3cXBpZHl3LWc?oc=5",
-            "source": "Pasardana",
-            "time": "2026-10-23T08:02:00+00:00"
-          }
-        ],
-        "行動支付": [
-          {
-            "title": "Video: Pramono Mulai Hitung Kebutuhan Dana LRT Jakarta untuk Diajukan ke Danantara",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZW5hS05VMnBOMWNZTHZWOUlDbVFFVHBoWVF0YklaY2kweWhNbG5nYjJlYTNZSUFSaExzdDI1TkxpeG9ReDA4d1NkWGZ2QUlrbVdRdW40cHVBajk4WUp3dllVUFo2R0lCSzgyNXN4SXVybWxPS2tmWVB5T0JPZF9mSm1CSXJ3T3dwTmtaQ01nRHpVeGtRQWg1RWVfYlJlSzNQbU13RllUNFZfcnVoNlFaMjlYbTRhZTBhbEFXZWpJNXBReWUxZ0F0WGZBZF94UQ?oc=5",
-            "source": "20detik",
-            "time": "2026-10-23T19:13:02+00:00"
-          },
-          {
-            "title": "Riset Ungkap QRIS Dominasi Transaksi Dompet Digital |",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGhpQ01sVGtZYjhVRkg0cVhCUjEwcERvMzM3eUxFWldrR3BXTG1XZ1dhYkZaZlphajlhVG5OT25ieXlWOTJSUVJoZVRFRkdYM0k3Q1dkdUtOblR0YUVvaldhcWhpemVNLXlhWjRkRkl1MnB0dUs2a2ZaQkVndkt1a1V0Y0xsclVtWjV4TjAtRlZoZw?oc=5",
-            "source": "Republika.id",
-            "time": "2026-10-23T09:45:00+00:00"
-          },
-          {
-            "title": "Mahjong Ways dan Fenomena Dompet Digital Mengapa QRIS DANA serta GoPay Sering Muncul dalam Cerita Keberuntungan",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PQlJoY2hvNUc2cUhlaWVuNWY1TFpfc04yOVRsS2txaEsxQWVDekRGOHBXWjZyeHFoVmlGV2FlMUhQWnRpMVB5UjBDcXdyUVVGbXhhRDlRZUNubzVWVzlhZTJZZGEtWHlVTFZyakpuVElMXzFySTdn?oc=5",
-            "source": "Cine y Tele",
-            "time": "2026-10-23T06:24:20+00:00"
-          },
-          {
-            "title": "Oktober 2026, UPTD Dana Bergulir DinkopUKM Kota Cilegon Salurkan Pinjaman Modal Rp127 Juta",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHB3aDROS2N2aVNfWUFRdVVxZTczUlM4TzZibm5EdlVYN3BuaDg2QkdZZjBvRFY1YWJCS0JvLXpTYzF3eHl5RnN4c2dUajlHTGlmUjEzeUY1RndUTUx6N3FULTVuYjVMeEpucGRhdExObnhneTJXVElJaUxrU2taelEyT3VuNUpKcmotdWZjd1BkY3Nsc2lvelBFbkNfbkxTTzR4bHVlZE5fNkJjdC15TDZ4cTE5dkhWYkNLVkhwTXhEMGJtLUtxcGV3RmFxMUxzRlZKeU44akJtZw?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-10-23T17:02:15+00:00"
-          },
-          {
-            "title": "Dua Tahun Kementerian Kebudayaan, Repatriasi Warisan Sejarah dan Dana Rp500 Miliar Perkuat Ekosistem Budaya",
-            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa05pYzlTeFdQRzZySnRsZjNBM3hKS2M1dnRtazF1ckFmNjJCX1BWbFdOeFIwRnE1WGl0YzNZckRfejNadEJZYkhlM2ZBeXp6cDE3U1JZN2JMOGdFWWt5Q3BUbzNQbEJ6RE8tN1ZmTU9DTVkzNFhHdXljQ2I2Y2dTdnNUd0dRbTZBWUJmcXJkTVBYSFh3ckxYYk5DeTB2dWtsX0NoazNETWQyMkJhbkh6cVNaWUpIXzBxUmpOUjJVX3RGekZ4OWRVdTB5czRBR21vU2JRX2VQSmU4Nk1tSXF1YVJpZTVLZ0RkMFdqYlAtV2ZWSld5Q2NMYUJpeXE?oc=5",
-            "source": "InfoPublik",
-            "time": "2026-10-23T12:17:00+00:00"
-          },
-          {
-            "title": "QRIS Jadi Fitur Dompet Digital Terpopuler di Indonesia, ShopeePay Paling Sering Digunakan - GenPI.co",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVm1OTlVvZW83QUk5QVRBZGg5dEFQa1lwZ1dKeElPNjRlSC1qcHFnRHRkaWNKd05FaFFkbzN4QjE2eDZVU183WGJULTk1WHNnbTE0d0RsODNRNEF2Y2FZQUJQNDJXZTBta25vN1lCLUZURGNIb2NQdzBYNGpUUmRzTWhaczJUQ29za3N3T0twbkRzc0xqcTlpeTRXZXR0eWR6R0VZalJRYXQ3ZDFPLWNWRWtWR2IxdlptSGhqQVFDbHZXd9IBxwFBVV95cUxPWTQzT1F5ZUxoVTVVb2VKaUlXVGpyZkw2U0kyRzN5YjdVNVNUdGJkbzRKQ1VtUkRKTFhMSzRMc1hjMzZ0VXlwT3ZENW4yWVVHT3RhQTZXanhXR1F3eXV4MnBCeDd0c280YWdfOENOM3lXdE8ydjJiTDBTdXhZVUpsaXhVeEJWdjdvdDVQT1A3cERQSXJuRVF1UENOVVNnVGxqX1hueGRzeTJsU0w3NWhnNHhzUGIwbDFSaV80Qi01NEpfNXBKMkFr?oc=5",
-            "source": "GenPI.co",
-            "time": "2026-10-23T19:30:00+00:00"
-          },
-          {
-            "title": "Emiten Haji Isam dan CNGR incar dana Rp8,2 triliun dari bursa",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnJYX0VrZ2trUmpGdGk2SHhPanJwMTd3SUVBbW5mSDNOdnc0NmwtTDBYMy1qNFhvZGRpdjV4ZUgxeXNPQUJ3ei14WjlDTFljWjBIbzFocTlndUs2Mk9BVERNX2J1cDJRRG5KdnlOOHZ0b1ZyLWlwNjYtTUZIYW5xcGxmRTRlSlE4em85cnJhb3ZhUU1ISDlQRVNzdTJaeDhLaXd2dW1heFE?oc=5",
-            "source": "IDNFinancials",
-            "time": "2026-10-23T04:20:00+00:00"
-          },
-          {
-            "title": "Kejari Lombok Timur menetapkan dua tersangka korupsi dana Desa Kotaraja",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMURUeWRyM0FVMHNoZm5aRWw4bzZENDgyMnNEQlhYVXVfc2s4SmJkSEJxcGRGVGlsajJadldwbUoxSnpKeEZ0NmpiU2JlSFV2NUlkZm1HLXdETFg1NWx2NEY0TkVJOXlMYWZjejR4MlQwdFhrUUJqQ3ZxWmNyYlFBNmIxTm90M1FSdGtOX3RyNFVuT2tFcS1SWDRKRDNEVC1YYjg2b09qN1ZhanBNc1VtMWUwel9OaFk?oc=5",
-            "source": "ANTARA News Mataram",
-            "time": "2026-10-23T22:56:53+00:00"
-          }
-        ],
-        "電信網路": [
-          {
-            "title": "Kuota Sisa Masih Hangus, Telkomsel Berdalih Aturan Rollover",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGJVTW5lZ3I3WEZLRkFoVm9Uak5ReXpMZVcwbDdJTHJDQ1BxNWo1QnRjVGNFVUdTMS1WcWVsb2V4NVJtX0htNWMwcHkwVW5QWXlCR0J1WjdaVkJnbmZvcVVfWC16eU1BQTMtNnc4Qk9CelBtSFZ2a1Rrd0NNMUI2Q1VtWnFEQ3NOeEtHaDEyN2d0c2g2TXVMaW01STNTdXFBVVlSWlpiTmJHR3Q3anZNY0llcUd3NWc?oc=5",
-            "source": "AFU.id",
-            "time": "2026-10-23T08:21:43+00:00"
-          },
-          {
-            "title": "Pemkot Bogor Serap Praktik Baik dengan Indosat untuk Pengembangan Smart City",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUZSMm9NZ1hLeEpKQ2prQmQ4VHJHeHRYZk1VejRZNzhyVGR3b1hiZHJNVkdubmh0Y0ZKMTNxU2hPblVkRHJxTzZtYVJ3WkQ0NmF4T3gtR1ZmZTVjQkJtcW40cUpKcVlBWlk3OV9ONk5LajVvQUlpUzZRaDVKY241cGJkRk44UWRCV3FXUzVERl9zY0dhbzhWbTZUaHJCbVY3VUhUU1EzQ3YybDVCMHJrTXZMOGs?oc=5",
-            "source": "Pemerintah Kota Bogor",
-            "time": "2026-10-23T02:00:11+00:00"
-          },
-          {
-            "title": "Telkomsel Pangkas Harga Paket Perdana 43 Persen, Analis Pertimbangkan Saham ISAT",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVhoSW5EZmxqSTY2TmJwektINmtsMlVndEtIazZRTWdNUHpybGVrZ3lwYXF5NmVmazhxdmRaX3RmTENLUjVYZUFNUjg0dkZZcExJSjl4X3locU1QeG1hUV9HU2gxUzJGdjJDWmluUlI4MlZnQ2gxVDlWQjE0Uld1Nk1qUkYtYVV3eVZOU0ppVzZYSEwxNWpwdWNrTFl5RkJfSGdmZHlzM2t1SmZEclZzNVEyRmhmczdfSUgxVFJKZDFmWW8?oc=5",
-            "source": "Kompas.com",
-            "time": "2026-10-23T04:39:00+00:00"
-          },
-          {
-            "title": "FLOQ dan Telkomsel Jajaki Integrasi Layanan Aset Digital",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzhRemlvS0ZpVlZqamRPdmNsNW1EM2oxb196WklndVRaWklGc0I4MktIejlCaGJFVkJxTWFaMG5MazV0WUd4VXFqQUpRdFFncU5nNjh1WkJ6QWdndGhHWFFGaVdWX0trdlFMc2ZtNU9IdlA2V1JtU3lsX042aVhJVFo4eGVpUmUyeUg5ejJZQQ?oc=5",
-            "source": "SWA.co.id",
-            "time": "2026-10-23T06:30:00+00:00"
-          },
-          {
-            "title": "Indosat Pacu Laba 2026 Lewat Monetisasi Data dan Efisiensi",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tWUJiUlFTM1g1UFZnREE0ekQzaWFZWTlESDI2YVcxNGhNVkpCbWZjcWY1MFVMMlhQQmVGVlpWSHh0cmIyUFZIZVVfdkNsV1BBYVFnWC1mcEpLT1VleFFybU9fY1QxSTBPc0lId3lVeXE?oc=5",
-            "source": "Demokratis.co.id",
-            "time": "2026-10-23T10:05:20+00:00"
-          },
-          {
-            "title": "Telkomsel dan PosDigi Luncurkan Paket Sat Set Pos",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVktHTGp5U3VhMnFGQUtMMEwyUUNPci1RRS1vOUl3NG5OaFFkcXY5TzJyOU1SdHVtVGZZM1dCSmhRUFRmX1BzaEY0c3FYYU84MllHODF1TTFiazlLbVQ2NndGZ3c3a1NpOVk1V2ZKTk9leWxud0tYSHhwdE0yWjVWZ21wenVxejh1TXJobHlwckVseDTSAZgBQVVfeXFMUG9SekNTZTBHcllrZlRCbHFKbmlYZUNBUUk4cDU5aHRNUElCZTlhN0hFQzVQWGRodHNXV1M5SHB6RmVrajN0U1ZSLTZTRlVUTDZDLXpRdVpKR0VFT2p6MmZiQXlDbXp2a1p2dndDeDQ0dTVueDF3azdRVXBGNy1mNU9tT2tPMF9DeXU3ZGlEYlhKTG9aRGtMRnU?oc=5",
-            "source": "koran-metro.com",
-            "time": "2026-10-23T10:20:46+00:00"
-          },
-          {
-            "title": "Bupati Kotabaru Perkuat Transformasi Digital Lewat Kerjasama dengan PT Telkomsel",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzkteTZ3bTlMNmlSU1RYbWQ4bDQtZlpsY2k2Nm5WZXB6TUQxeFg1RFhvNFc4YjctLXRRQ0dPejdYT1V0YlFIR2E2R3VaYUU0UWZadFV5YXpKYmhNLWpwSFJ5RUE0Slhsd0M1dlVhbDBrQVZqWERCTXFLVmtxYVQxVDBkaXZ5eFJqYzRTSzhCVWJSYS1xZE9OakwtQjV3T3JibVpDeUxUSmZTV2pKQTRJZ1EtbkdRemtWZ29MNlpHSWtuT2ZfWmtVRnln?oc=5",
-            "source": "Kabar Kalimantan",
-            "time": "2026-10-23T06:32:03+00:00"
-          },
-          {
-            "title": "Dinas Pendidikan Gandeng Telkomsel Salurkan CSR Untuk Guru Honorer - radarcirebon.disway.id",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3VWWFRnem91Y1NNWDVNZDEwV2xuQlZxWFJmMXh1NmhZRldTZ0E5RDljck9hVFFXMU44VFhqZWRYZmpJUGRGVnpORGJZTXBGV3JNTnI5U2VIQlEyMjl2eU9SOExLeEVxdGIyS1ByUVE4QzEwRzJ5X3htaVJjNDNKdXRSTUJqdVgzbVpYb1Y1dGYzbEpyTWl5OU5SRzUtdE1MemlZalBVMGJCNjNaLXRkemk3OU1DTjhqMW1pMnFrb9IBrAFBVV95cUxQLW1kN19oek9QTS1XeGd2QklRYS0zQmhEOGhHUjdLeGdtSEVVWkdfMlczc21qQU9hcHA5dFd6T3hhdWUxa2RTTXV6N2p4dmcxWVRwRUZ2ZE1uMEUyMUR2QUNUUF9jLW5SaWJPUkZNX1pjZEdMV0k5S0ZEZXRUM3BiMkVKOUplNXd1aktjQ25CUnBJdTNzLXBtM3lBZmFib2ZfbXV1bGRoNU1id3pY?oc=5",
-            "source": "Radar Cirebon",
-            "time": "2026-10-23T07:35:00+00:00"
-          }
-        ],
-        "遊戲產業": [
-          {
-            "title": "Bukan Kalah Kualitas, Kok Game Lokal Sulit Menang di Negeri Sendiri?",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOak1aTFJjakotZVRGZzlBZGlELWhOSF9MMkNaNElyNEhmaTV4RUtBb0dMSmdJNGh3NVBUVFEyRWtkNnpCU2N0TG5oMmQ5X0RZaDN1cFNqNFdGYUlYYmlrQTBLWnNId1VjX1l3R0l2aUNBMm54OWZVdnNodkpzWXVjV3l3Wmw5V0Z3ek1z?oc=5",
-            "source": "Uzone.id",
-            "time": "2026-10-23T20:31:33+00:00"
-          }
-        ],
-        "流行文化": [
-          {
-            "title": "Respon Cepat Polsek Gunung Putri Turun Cek TKP, Video Viral di Instagram Pria Diduga Berbuat Tidak Senonoh",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXV3VVhQMFVydjhEWkZsX2g4YmRaQTNSLVptTzFHOHA3R3ZzOEwtU056aGxwdDN1bGVoRVJSVjFJOVI3MndieUYtazA1Nl9OSDRNbHpnWWszWjV3UHZPS0V0TWVSTDNOTXI0c2xyMmFZdDdGdUNTLXlmZ29lSUtsMFgtZ1Z1RndlcjhqUXhQVjdwbWVtWEdoaHB0ZTZoaUNMYXlCX3l3c0dXY3ZkTmcydnBXZ2laWW9TX3dVMTUwNHg0QjRpLWphSzdQWDJCR3BZZ2JGRm11SldoVUptaHpwSDVvX1QyNEJPbXZwSjNpTl8?oc=5",
-            "source": "Media Budaya Indonesia",
-            "time": "2026-10-23T14:01:00+00:00"
-          },
-          {
-            "title": "[Bokep-vidio] xxx viral indo bokep Nonton video bokep Indonesia viral terbaru",
-            "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQbHdVaHE2blpjejN5S3FpQVhPeDAxdnNKY3c2aVdUWW9XWTM5SHVaVUVkU0wzNDZOZm5XQ0JRZXRQd0N2Mkl5ZmJKWkp2dnNVQzZFMUtfWlk1U2xLT296SlNNZ2lYNjhpaHF1aEh0M0l0SXI4bnNxMmdNMXpySjA5YTV5bUJJenJ6bHI2RUFyR3dXbkxtaTRydEN0Y0E3bFBKMFpyUmhTdFNuZExOaDdZQ0R4UmRBQVpjT0d2NGVrYXhxNm9GYTVHdUJUQXhnWHNPNDBfd1o5S0FuVzFkSzd1c3E1ODl1c01HbUxYRlVDbUpLdm1MVWp1eGx0cmlON3Z3dGVBS0xGSzhSazhBaGFiNWhvWjJrQmZKQzZmeE9JVGVVZm92YTRiamZjM3UyX2hGUVZWUjlnMnJLMHNCcDdEUkRPc2xMSThK?oc=5",
-            "source": "Fabryka Norblina",
-            "time": "2026-10-23T05:59:01+00:00"
-          },
-          {
-            "title": "Viral Orang Tua Diduga WNI Siksa Anak di Lift Hotel Malaysia",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmVwOTR6eEFmOWhHbVc2VWtkWC1XQXkwYkl5U2VCbFNsN0xHVnB0V0tiQXdsRFNmTVNPOTBJZ2dRQm1Scm5GcGhuUTdvaFlIa1dGUmYyMzZoWmFKZDF1U3JKeGFSMW4tYnplZ0F3ZmFQMk8ySlBrMXpZd3NwRXBHNFBQeEVVTGtjdEFfa2dwNTFfWU5rTGJpYlZuYkZyZG9uVldvczJrbE5iSWhLWkw3MW9XcHBwNUxwUVpGMHAxbFdQelNfenZHYXdR0gHPAUFVX3lxTE13XzJGV0V2Y3VrQ05HbzNoOXoxUG0zY2doVDIzcTdEYTdkdnViYlppMDA2MFVXZUtkRlZBMGtaTVJwVTNqNE96ekxZRGFtRFQxYVQteGZkTTk0WU9MVFI4bWdQZmZtUExOeVczSDdxM2NwQlQ3NnhqbFI2b1dqSkpMZEtEeEZXelFuNVJvTXNYMXhnSWZHWjNiNEl5QXdOdWRFakFHTEJTd1ZkT3h5MnNYdjRtQXJlWmZtQVp1aFFCM24wUlkyV19GWk5RenV2OA?oc=5",
-            "source": "CNN Indonesia",
-            "time": "2026-10-23T02:25:12+00:00"
-          },
-          {
-            "title": "Ariana Grande Kepo Kata Kokopan yang Trending di Medsos Usai Viral Pidato Prabowo",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHUtVGVybHJCcHA1X09LY1dTUkNTQkNoWXUwbnYza3JJZUZ6T2VfU2JDRk5VWndGLUY5TDBaVUdQY0dHaVdVa1dQUV9uSkQtRUdnaDdHUkpQZEJXWjJzT2tnLWI0X08zTExyVzBBZk5NN2FSbWdSV1dOLW45b3hUZ3hzeXpFTUdvQnZ0VzM1TENERzNVdXJzdWFENmh0TDFjMWp2YXpFNmQ0Y3lrSVFxRGIzbkxGd3hWU2JPSVMzQlNrQQ?oc=5",
-            "source": "Informasi.com",
-            "time": "2026-10-23T02:00:00+00:00"
-          },
-          {
-            "title": "Gairah Suporter Madura United Viral, Netizen; Jadi Pengen Away ke Sana",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0FjRUtMOHFzQlF6N0d1UlMzb0lEZHpvRmVMTnZvSEVuRmZQN2RvSW9uMW1teXNudVBxSkN2UHJHbHUtZHFYOG9KN1BfclJSdTZBdXlpTGhza01ESmdrZ2dfYjFRUy1raXhRRVNmZFIycURPNWlod1Q1dzU4TXd1amV2OU5wOVp5S21FSTZ0N00wSG9VTmtEWk1OY0tpRDlrM0pQdjlFTGhtWjg?oc=5",
-            "source": "Harapan Rakyat",
-            "time": "2026-10-23T07:51:02+00:00"
-          }
-        ],
-        "流行娛樂": [
-          {
-            "title": "Konser Kanye West sebentar lagi, ke konser naik apa ya? 🎶🎸 Untuk mendukung kegiatan Konser Kanye West \"Ye Live In Jakarta\"pada 24 Oktober 2026 di Kawasan Gelora Bung Karno, Dishub DKI Jakarta menyiapkan Rekayasa Lalu Lintas, kantong parkir,",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yS01CWnNpeDQxV09ZMVFuVFJrd0xVWFlLa0xZLVdrRElIN3hCMUtkRThDNmpfZWh6bFZDR3BxN0Q0amt2cnR5X2s5dTRia21tWVE?oc=5",
-            "source": "Instagram",
-            "time": "2026-10-23T08:43:57+00:00"
-          },
-          {
-            "title": "Video: Demi JRF & Konser Ye, Pemprov DKI Lakukan Modifikasi Cuaca",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSC0wZzZqUENDdlBHMHVGMHJPT19SQ0xoQ2hDVHRueTNRSjZTY0RJLTNwSGNtWHk3SnpHbmI1ZGdtbDM1NW16UW1YQ0tlZlFGMUh0WTdWYXo0MEJDY00wcGp0dTJ1MnBlWEJRenl1eDh2ZlE1SW1TdHM2YzBlejFHZG0ycFpoQzgzVmMwZUt5MG80M2lLWTJVUjZZY2E4UndsZ2IyRkxhMERsYVRZVTNDNzRlaw?oc=5",
-            "source": "20detik",
-            "time": "2026-10-23T19:00:48+00:00"
-          },
-          {
-            "title": "Ada Konser Kanye West, Jam Operasional MRT Diperpanjang",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1RvUk5rMjQzdVVNMVd3eTJDQ1Z5NkFtLTZ2ZjFBWmk5NVZfaFh4X0tqTkNVWEpNWkYyMzQ1S1NuVk43d2FGZENkTk9TRXpiOGxESHZjNmFBZ0RudEdaVkx6Y0pkckNzOXBzX0xXcTA5UW5aMlpVQnR2cjFZbEtBUWRnb01Jem0zLUJhZnRBRkhIR2lGam00MXZISy1tbkRlMjNkRVZ3aVJMVDZ6TWFuTFV3OA?oc=5",
-            "source": "Kompas.com",
-            "time": "2026-10-24T00:27:00+00:00"
-          },
-          {
-            "title": "SYARAT DAN KETENTUAN PROGRAM TIKET KONSER SHEILA ON 7 | BIE 2026 - Promo",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmhweGd0VUlRZDFRcHFWSE1QcWFSdzBURVJLVUsyNmpXV2Y5M0V5M3VTODZLeFY2ZE9EejVkOUNDVXg3UGw2UzVLeElZbEFGa3o4ekJ6aUtlMUl0VDJieEtKdGo3eV9pSGxRdzZLS2kweHhNMnZBaUdFSDl6ckVaS3pmZ0dMM0FzajBXVTE1XzFtZFNqZVJ5TFBB?oc=5",
-            "source": "Bank Syariah Indonesia",
-            "time": "2026-10-23T12:12:17+00:00"
-          },
-          {
-            "title": "Pramono Cemas Cuaca Jelang JRF dan Konser Ye",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3FseldCblMyVFo2SVluaHJqRk9HdGpka2RkSnFwaGt3cmFWZ1VTZ3JTdHNRYUliWWJLWEdiRGM4Z1ZJanpydWI0RDZPSDdhMnRtaDkyREtwc3lwOXd2bmZFcnVOZVUtdlNUaHYtaTdMWGtJdlZJZTd5NkVvZURoNkw1Y05ZUQ?oc=5",
-            "source": "tangselpos.id",
-            "time": "2026-10-24T00:20:56+00:00"
-          },
-          {
-            "title": "4 Agensi K-Pop Terbesar Tolak Daftarkan Artis ke Grammy, Ada Apa?",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzJlT1I2SUhEUVNVcmJIVV9CNlhUdnJUeEJxMHFYdWU4dDRzdUpXdXJfTzJvSXo2ZTdMS1NMd3BwcUpSOE1sX1NodnlUU1NMdXBZQjVBMXFSN1E1UDBLOWoyb05Deld5dlk0X3RFZXZGakpBMU9FQVVMWGhMaVVpNHVfcE5VOENlbTI5R2U2YjF6d09fT3Y5STBqZVlUN3AzR00zMlVLOTRDVUpxNndNMDJBU0lIMXJQOTY0dWxKb2NBUkVFT2Rz0gHMAUFVX3lxTFB6Y0NTbVRhWW8wbUZxelU3blU2MEZXemZjWEIzZ1VONEtLdnBGZk5odVJuTFBWMndMRWZsa0VaSjBwYm1xaEdTT0I2R3kyYWo3XzlpUk5PUjZ3bEpNdUszZFZKbm55enpCbHdkQUZuNHd6RVhQQ3RHbW9QZ3RaMm50YmZWdTl1WC1JLTcwbkxJVUxOcEZHMUN4MTZ2WGg3VzVBQ0FERlJZemdRMGxXS0pDa3pZeGptaHp2NkxkNDgySWZuTTZjamtjbzhjXw?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-10-23T09:30:16+00:00"
-          },
-          {
-            "title": "Fitbar Gandeng ALD1, Hadirkan Pengalaman K-Pop Seru di Blok M",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjBsRUFVUFBMU1NHbWhjbnRKbWV0Uk9hVGF4STAzWTh3dlVIQXkyZkpHQTlrdE1INlp2cWxQc1hyOGd6UXAtVGdGNmx6UjBEMEFrTkZ4ckJ2WWFwYVZrRjlJTlRXR0VabkJ2R1dtdmtETkQ4em9XYlhNXzhUVFh2TUg1WVRya21Kek81cUlHQ21IcjBM?oc=5",
-            "source": "sinarharapan.net",
-            "time": "2026-10-23T15:05:51+00:00"
-          },
-          {
-            "title": "OPEN UTAMA-KONSER (2)",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmtqWGVRV0JLNEdqZ01CSzk5NEZzekVTaXFoZ3BPbEpTVGRKbENoNjFFT2kwd1FnNjE2d0VhbkNsT3RsV2xHWXpxaWxPbktKUzRSakJEbW9ac0dqMnJpbUhIY0cyM3J5MFN5Q3pJMDVSSDNsRk9JZjFXUEtTRkd6N1V2TXpaOVppcmRBQ1h0RHJVOFFTOUVjUW5KVUJSanljeEIwaWtJYWZmdw?oc=5",
-            "source": "Bontang Post",
-            "time": "2026-10-23T21:11:26+00:00"
-          }
-        ],
-        "重大事件": [
-          {
-            "title": "Gempa kuat guncang Tibet, 16 orang dilaporkan tewas - Apa yang diketahui sejauh ini?",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00X1FhSHUwb0lsSENYdjVmbUVjWlpCZjdfSEppM3g1dVZfWmVfU2t1V0RQTTRTQlpyNUc0Q1RxbDVycXcxUXJnU1g1QlZ5dHZ4SDBhZ1duZ21UeHl2amtablBn0gFnQVVfeXFMUFB0Vjc2N2ZCQWRnRnFPbV95OEtYR04xVW05SF9Vbmxtd3hMUVg1N3VZZS1EWm91aFNaM3llMHdCdGxCdUVONzl6STNjTG1VdklWMmJ3UGVmY1lVSjJJa0FrWUpuVEt0TQ?oc=5",
-            "source": "BBC",
-            "time": "2026-10-23T07:56:46+00:00"
-          },
-          {
-            "title": "Bawaslu Kabupaten Tegal Ajak Masyarakat Tolak Politik Uang dan Jaga Integritas Pemilu",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORDlCTkF1dUFCaXQ2WEZmeE5BRXRzTFluNGVEelo4STVqN2NSWVZFRzVZaTY0LTJpS0tULWFXNm1LdWJULUoxTHdOQWxWWWhpZWRmckpQbUFTSmphZDhuQW01Wi1Sb0J6bnEweThYZEZiLXI1b0NpTTNsYzN2THF0X05iRFA1ZHJWdjF4bWw1cmRzRm1VdjRUelh3ZjdDLVY0RU1KV252SWhlY1N6Q0RfRGRRcXpEVXR4YU4xNFNFbFg?oc=5",
-            "source": "bawaslu kab tegal",
-            "time": "2026-10-23T15:05:00+00:00"
-          },
-          {
-            "title": "Kemenag Serap Aspirasi Lembaga Keagamaan Terdampak Banjir di Aceh",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFNETWlGcHZIejNQYmduWDJmUi1vUWg0aXVOOW51VDk4dkNsdFJITVpTbXB5dU8xT01ZQUlYTWVwZGhEMXNDSXVZY3daMDc2b3lyZUlZeUNGNkdzYzJRR0VadVZBUk5VTndDU0lwd2ZxRnk0UW9vNFlkVW5Yck11UkdBbjYzMHl1SXpFU1ZYeEVNcE41NzQ1TVlWSHl5LUNHYXc?oc=5",
-            "source": "Kementerian Agama",
-            "time": "2026-10-23T11:09:00+00:00"
-          },
-          {
-            "title": "DPK Kota Solok Musnahkan Arsip Rusak Berat Akibat Banjir, Pastikan Penanganan Sesuai Prosedur",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamM0SjdIQUt6bFBBSmJqOVcwVlJwNUQ2Mi1JWXlsbUg4MTRhTHVxTm5VVVRkTVRCV2d5ZFpNckZfUU9TLVN4TGtYODFhb0VzcUpPLXJlSnh6MjVkRlV4ZHFiZzB4OG9tYktPbzhJLXNfdFJhTXNVOVZqNzN0NEhkVEs3Ukh2QngzZEhwdDZQdmJWcG9HT0VUdFgtUTZRRTNhN0F4V2lvTkluWm1hWlhCd3I0SFcxU3hLNVdKdWg2bnhNTVFuVEVQZ1VfRER0T2ViU1BKQm9Bbkc?oc=5",
-            "source": "Info Publik Solok",
-            "time": "2026-10-23T11:06:20+00:00"
-          },
-          {
-            "title": "Kementerian PU Tangani Dampak Banjir pada Sejumlah SPAM di Kota Padang, 6.000 SR Kembali Terlayani",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUU4a2F6ZXM0YXpsTkt5Rlpza0NOSHVlYkFoTG9BS05PX0ZYc3FUNG5uWllyRDN3bVhJYTc5YkRFSGlBbTlVU1FmR3JxekpPMFNhb3ROSy1ZSXlWUkxVYnQ2T1pzRTFYSGNaQ0JLLVVlTHU5UTNReVRTQWdSNlo3Tk1JVnZwdUNYcFI2U0pvYVM3bVpfMC0tdmJaVWpzWDhseGZ3MU9VanVRQU9LQVIzUklmbkpJU284U0FHNg?oc=5",
-            "source": "Kementerian PUPR",
-            "time": "2026-10-23T05:26:02+00:00"
-          },
-          {
-            "title": "Gempa Bumi Bermagnitudo 3.6 Guncang Kep. Aru, Maluku",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQck1WWmh3b01wbllCVF9HbEV3MXM1RTFEWUh0N3pQU2c4S255OERtZEJ2X2kwdG9SUTE2ZnBpcURGNi1wVmw2TE5nZlN0Ti1fa2hRSWJrT0JScXYxaWlmU3dOc3FxRDVIMUZXemp4cl8zOFVxVnR4YXY0MGU5NGR0VEtDejk3VlR1Z3ZLSkJYUEQtcDl6TXpxQ190LWVjVEhQVVQzdWpoYUpyV2NBUXFMVQ?oc=5",
-            "source": "Tribrata News",
-            "time": "2026-10-23T08:31:00+00:00"
-          },
-          {
-            "title": "Video: Detik-detik Gempa M 7,0 Guncang Tibet China, Warga Berhamburan",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjU5RWhGaXdjZml1QUxOV2g4aXN6ZzY1SGtxN2hTMmd3dzk4UThpMndRUXJMWTl6bnl6ZUgtQlBjUTBuN2NCWXIwQUh2ZDZqY1ViWlZuUk1sc0VmdXcyRzNHWU9MQVoybzl2emtSSWdIUm5oamZrdG1DRHNsRnRxMVVBenBYdVZXdjNiN2Z5ckwyVVpsdEV0RENQVkE4cG1zRUJydnhNTnl2YTRpTWgzZ1VUc2JEeXJjMUxN?oc=5",
-            "source": "20detik",
-            "time": "2026-10-22T19:12:57+00:00"
-          },
-          {
-            "title": "Gempa Bumi Berkekuatan M 5,2 Guncang Italia",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVpIN1RyUDEyd09sS1ZiOEtTLXFjRHFzZU5BME4tdnhqMXRBZm0waXM5dzJ2RFA2NXpRT2RhSFRvVzE4Yl9DcENBcUhNY011U1RHc2xRd2p2S1BVZ1c4djF2WmczZllSdmQ5MFpNY0tUUUlra0tZXzVvZ2FIQ3ZPX1VaczlwdzE4aVRWMEdjSm9jRl9WM0t1dDRQU2E0Z0pKOG8wUFF1SWhCZk1PbzBaU3pn?oc=5",
-            "source": "Databoks",
-            "time": "2026-10-23T14:24:49+00:00"
-          }
-        ]
-      },
-      "rates": {
-        "USD_IDR": 18089.97,
-        "TWD_IDR": 555.13,
-        "JPY_IDR": 115.34,
-        "fetched_at": "2026-10-24T09:26:00.556331+08:00",
-        "USD_IDR_change": 0.04,
-        "TWD_IDR_change": 0.06,
-        "JPY_IDR_change": 0.1
       }
     }
   }
